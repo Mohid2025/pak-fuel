@@ -1,0 +1,6023 @@
+{
+  "updated_at": "2026-07-13T00:27:48.934732+00:00",
+  "source": "Pakistan State Oil (psopk.com) -- notified POL prices",
+  "note": "Prices exclude freight from shipping point to retail outlet; pump price may differ slightly by location.",
+  "revision_count": 379,
+  "revisions": [
+    {
+      "effective_from": "2006-01-01",
+      "products": {
+        "petrol": 62.13,
+        "hsd": 62.65,
+        "ldo": 54.94,
+        "sko": 59.35,
+        "jp1": 45.82
+      },
+      "change": {}
+    },
+    {
+      "effective_from": "2006-01-09",
+      "products": {
+        "petrol": 55.0,
+        "hsd": 65.0,
+        "ldo": 56.0,
+        "sko": 33.0,
+        "jp1": 12.0
+      },
+      "change": {
+        "petrol": -7.13,
+        "hsd": 2.35,
+        "ldo": 1.06,
+        "sko": -26.35,
+        "jp1": -33.82
+      }
+    },
+    {
+      "effective_from": "2006-05-01",
+      "products": {
+        "petrol": 55.55,
+        "hsd": 37.29
+      },
+      "change": {
+        "petrol": 0.55,
+        "hsd": -27.71
+      }
+    },
+    {
+      "effective_from": "2006-05-15",
+      "products": {
+        "petrol": 55.0,
+        "hsd": 65.0,
+        "ldo": 56.0,
+        "sko": 33.0,
+        "jp1": 12.0
+      },
+      "change": {
+        "petrol": -0.55,
+        "hsd": 27.71
+      }
+    },
+    {
+      "effective_from": "2006-05-16",
+      "products": {
+        "petrol": 55.55,
+        "hsd": 37.29
+      },
+      "change": {
+        "petrol": 0.55,
+        "hsd": -27.71
+      }
+    },
+    {
+      "effective_from": "2006-06-01",
+      "products": {
+        "petrol": 55.55,
+        "hsd": 37.29
+      },
+      "change": {
+        "petrol": 0.0,
+        "hsd": 0.0
+      }
+    },
+    {
+      "effective_from": "2006-06-16",
+      "products": {
+        "petrol": 55.55,
+        "hsd": 37.29
+      },
+      "change": {
+        "petrol": 0.0,
+        "hsd": 0.0
+      }
+    },
+    {
+      "effective_from": "2006-07-16",
+      "products": {
+        "petrol": 53.7,
+        "hsd": 37.73,
+        "ldo": 32.57,
+        "sko": 35.23,
+        "jp1": 38.67
+      },
+      "change": {
+        "petrol": -1.85,
+        "hsd": 0.44
+      }
+    },
+    {
+      "effective_from": "2006-08-16",
+      "products": {
+        "petrol": 55.55,
+        "hsd": 37.29
+      },
+      "change": {
+        "petrol": 1.85,
+        "hsd": -0.44
+      }
+    },
+    {
+      "effective_from": "2006-09-16",
+      "products": {
+        "petrol": 55.55,
+        "hsd": 37.29,
+        "jp1": 38.4
+      },
+      "change": {
+        "petrol": 0.0,
+        "hsd": 0.0
+      }
+    },
+    {
+      "effective_from": "2006-10-16",
+      "products": {
+        "petrol": 55.55,
+        "hsd": 37.29,
+        "jp1": 38.4
+      },
+      "change": {
+        "petrol": 0.0,
+        "hsd": 0.0,
+        "jp1": 0.0
+      }
+    },
+    {
+      "effective_from": "2006-11-16",
+      "products": {
+        "petrol": 55.55,
+        "hsd": 37.29
+      },
+      "change": {
+        "petrol": 0.0,
+        "hsd": 0.0
+      }
+    },
+    {
+      "effective_from": "2006-12-01",
+      "products": {
+        "petrol": 55.55,
+        "hsd": 37.29
+      },
+      "change": {
+        "petrol": 0.0,
+        "hsd": 0.0
+      }
+    },
+    {
+      "effective_from": "2007-01-16",
+      "products": {
+        "petrol": 51.7,
+        "hsd": 36.33
+      },
+      "change": {
+        "petrol": -3.85,
+        "hsd": -0.96
+      }
+    },
+    {
+      "effective_from": "2007-04-01",
+      "products": {
+        "petrol": 51.7,
+        "hsd": 36.33
+      },
+      "change": {
+        "petrol": 0.0,
+        "hsd": 0.0
+      }
+    },
+    {
+      "effective_from": "2007-04-16",
+      "products": {
+        "petrol": 51.7,
+        "hsd": 36.33,
+        "ldo": 32.57,
+        "sko": 35.23,
+        "jp1": 35.86
+      },
+      "change": {
+        "petrol": 0.0,
+        "hsd": 0.0
+      }
+    },
+    {
+      "effective_from": "2007-05-01",
+      "products": {
+        "petrol": 51.7,
+        "hsd": 36.33,
+        "ldo": 32.57,
+        "sko": 35.23,
+        "jp1": 36.48
+      },
+      "change": {
+        "petrol": 0.0,
+        "hsd": 0.0,
+        "ldo": 0.0,
+        "sko": 0.0,
+        "jp1": 0.62
+      }
+    },
+    {
+      "effective_from": "2007-05-16",
+      "products": {
+        "petrol": 51.7,
+        "hsd": 36.33,
+        "ldo": 32.57,
+        "sko": 35.23,
+        "jp1": 36.58
+      },
+      "change": {
+        "petrol": 0.0,
+        "hsd": 0.0,
+        "ldo": 0.0,
+        "sko": 0.0,
+        "jp1": 0.1
+      }
+    },
+    {
+      "effective_from": "2007-06-01",
+      "products": {
+        "petrol": 51.7,
+        "hsd": 36.33,
+        "ldo": 32.57,
+        "sko": 35.23,
+        "jp1": 37.03
+      },
+      "change": {
+        "petrol": 0.0,
+        "hsd": 0.0,
+        "ldo": 0.0,
+        "sko": 0.0,
+        "jp1": 0.45
+      }
+    },
+    {
+      "effective_from": "2007-06-16",
+      "products": {
+        "petrol": 51.7,
+        "hsd": 36.33,
+        "ldo": 32.57,
+        "sko": 35.23,
+        "jp1": 36.9
+      },
+      "change": {
+        "petrol": 0.0,
+        "hsd": 0.0,
+        "ldo": 0.0,
+        "sko": 0.0,
+        "jp1": -0.13
+      }
+    },
+    {
+      "effective_from": "2007-07-01",
+      "products": {
+        "petrol": 51.7,
+        "hsd": 36.33,
+        "ldo": 32.57,
+        "sko": 35.23,
+        "jp1": 36.9
+      },
+      "change": {
+        "petrol": 0.0,
+        "hsd": 0.0,
+        "ldo": 0.0,
+        "sko": 0.0,
+        "jp1": 0.0
+      }
+    },
+    {
+      "effective_from": "2007-07-16",
+      "products": {
+        "petrol": 53.7,
+        "hsd": 37.73,
+        "ldo": 32.57,
+        "sko": 35.23,
+        "jp1": 38.67
+      },
+      "change": {
+        "petrol": 2.0,
+        "hsd": 1.4,
+        "ldo": 0.0,
+        "sko": 0.0,
+        "jp1": 1.77
+      }
+    },
+    {
+      "effective_from": "2007-08-01",
+      "products": {
+        "petrol": 53.7,
+        "hsd": 37.73,
+        "ldo": 32.57,
+        "sko": 35.23,
+        "jp1": 39.34
+      },
+      "change": {
+        "petrol": 0.0,
+        "hsd": 0.0,
+        "ldo": 0.0,
+        "sko": 0.0,
+        "jp1": 0.67
+      }
+    },
+    {
+      "effective_from": "2007-08-25",
+      "products": {
+        "petrol": 53.7,
+        "hsd": 37.73,
+        "ldo": 32.57,
+        "sko": 35.23
+      },
+      "change": {
+        "petrol": 0.0,
+        "hsd": 0.0,
+        "ldo": 0.0,
+        "sko": 0.0
+      }
+    },
+    {
+      "effective_from": "2007-09-01",
+      "products": {
+        "petrol": 53.7,
+        "hsd": 37.73,
+        "ldo": 32.57,
+        "sko": 35.23,
+        "jp1": 37.38
+      },
+      "change": {
+        "petrol": 0.0,
+        "hsd": 0.0,
+        "ldo": 0.0,
+        "sko": 0.0
+      }
+    },
+    {
+      "effective_from": "2007-09-16",
+      "products": {
+        "petrol": 53.7,
+        "hsd": 37.73,
+        "ldo": 32.57,
+        "sko": 35.23,
+        "jp1": 39.19
+      },
+      "change": {
+        "petrol": 0.0,
+        "hsd": 0.0,
+        "ldo": 0.0,
+        "sko": 0.0,
+        "jp1": 1.81
+      }
+    },
+    {
+      "effective_from": "2007-10-01",
+      "products": {
+        "petrol": 53.7,
+        "hsd": 37.73,
+        "ldo": 32.57,
+        "sko": 35.23,
+        "jp1": 40.96
+      },
+      "change": {
+        "petrol": 0.0,
+        "hsd": 0.0,
+        "ldo": 0.0,
+        "sko": 0.0,
+        "jp1": 1.77
+      }
+    },
+    {
+      "effective_from": "2007-10-16",
+      "products": {
+        "petrol": 53.7,
+        "hsd": 37.73,
+        "ldo": 32.57,
+        "sko": 35.23,
+        "jp1": 41.12
+      },
+      "change": {
+        "petrol": 0.0,
+        "hsd": 0.0,
+        "ldo": 0.0,
+        "sko": 0.0,
+        "jp1": 0.16
+      }
+    },
+    {
+      "effective_from": "2007-11-02",
+      "products": {
+        "petrol": 53.7,
+        "hsd": 37.73,
+        "ldo": 32.57,
+        "sko": 35.23
+      },
+      "change": {
+        "petrol": 0.0,
+        "hsd": 0.0,
+        "ldo": 0.0,
+        "sko": 0.0
+      }
+    },
+    {
+      "effective_from": "2007-11-16",
+      "products": {
+        "petrol": 53.7,
+        "hsd": 37.73,
+        "ldo": 32.57,
+        "sko": 32.57
+      },
+      "change": {
+        "petrol": 0.0,
+        "hsd": 0.0,
+        "ldo": 0.0,
+        "sko": -2.66
+      }
+    },
+    {
+      "effective_from": "2007-12-02",
+      "products": {
+        "petrol": 53.7,
+        "hsd": 37.73,
+        "ldo": 32.57,
+        "sko": 35.23,
+        "jp1": 50.89
+      },
+      "change": {
+        "petrol": 0.0,
+        "hsd": 0.0,
+        "ldo": 0.0,
+        "sko": 2.66
+      }
+    },
+    {
+      "effective_from": "2007-12-16",
+      "products": {
+        "petrol": 53.7,
+        "hsd": 37.73,
+        "ldo": 32.57,
+        "sko": 35.23
+      },
+      "change": {
+        "petrol": 0.0,
+        "hsd": 0.0,
+        "ldo": 0.0,
+        "sko": 0.0
+      }
+    },
+    {
+      "effective_from": "2008-01-01",
+      "products": {
+        "petrol": 53.7,
+        "hsd": 37.73,
+        "ldo": 32.57,
+        "sko": 35.23,
+        "jp1": 48.85
+      },
+      "change": {
+        "petrol": 0.0,
+        "hsd": 0.0,
+        "ldo": 0.0,
+        "sko": 0.0
+      }
+    },
+    {
+      "effective_from": "2008-02-16",
+      "products": {
+        "petrol": 53.7,
+        "hsd": 37.73,
+        "ldo": 32.57,
+        "sko": 35.23,
+        "jp1": 49.98
+      },
+      "change": {
+        "petrol": 0.0,
+        "hsd": 0.0,
+        "ldo": 0.0,
+        "sko": 0.0,
+        "jp1": 1.13
+      }
+    },
+    {
+      "effective_from": "2008-03-01",
+      "products": {
+        "petrol": 58.7,
+        "hsd": 41.23,
+        "ldo": 36.07,
+        "sko": 38.73,
+        "jp1": 52.77
+      },
+      "change": {
+        "petrol": 5.0,
+        "hsd": 3.5,
+        "ldo": 3.5,
+        "sko": 3.5,
+        "jp1": 2.79
+      }
+    },
+    {
+      "effective_from": "2008-03-16",
+      "products": {
+        "petrol": 62.81,
+        "hsd": 44.13,
+        "ldo": 38.59,
+        "sko": 41.44
+      },
+      "change": {
+        "petrol": 4.11,
+        "hsd": 2.9,
+        "ldo": 2.52,
+        "sko": 2.71
+      }
+    },
+    {
+      "effective_from": "2008-04-01",
+      "products": {
+        "petrol": 62.81,
+        "hsd": 44.13,
+        "ldo": 38.59,
+        "sko": 41.44
+      },
+      "change": {
+        "petrol": 0.0,
+        "hsd": 0.0,
+        "ldo": 0.0,
+        "sko": 0.0
+      }
+    },
+    {
+      "effective_from": "2008-04-18",
+      "products": {
+        "petrol": 65.81,
+        "hsd": 47.13,
+        "ldo": 41.59,
+        "sko": 41.44,
+        "jp1": 62.31
+      },
+      "change": {
+        "petrol": 3.0,
+        "hsd": 3.0,
+        "ldo": 3.0,
+        "sko": 0.0
+      }
+    },
+    {
+      "effective_from": "2008-05-01",
+      "products": {
+        "petrol": 68.81,
+        "hsd": 50.13,
+        "ldo": 44.59,
+        "sko": 41.44,
+        "jp1": 67.33
+      },
+      "change": {
+        "petrol": 3.0,
+        "hsd": 3.0,
+        "ldo": 3.0,
+        "sko": 0.0,
+        "jp1": 5.02
+      }
+    },
+    {
+      "effective_from": "2008-05-16",
+      "products": {
+        "petrol": 68.81,
+        "hsd": 50.13,
+        "ldo": 44.59,
+        "sko": 41.44,
+        "jp1": 72.25
+      },
+      "change": {
+        "petrol": 0.0,
+        "hsd": 0.0,
+        "ldo": 0.0,
+        "sko": 0.0,
+        "jp1": 4.92
+      }
+    },
+    {
+      "effective_from": "2008-06-01",
+      "products": {
+        "petrol": 68.81,
+        "hsd": 50.13,
+        "ldo": 44.59,
+        "sko": 41.44,
+        "jp1": 84.9
+      },
+      "change": {
+        "petrol": 0.0,
+        "hsd": 0.0,
+        "ldo": 0.0,
+        "sko": 0.0,
+        "jp1": 12.65
+      }
+    },
+    {
+      "effective_from": "2008-06-22",
+      "products": {
+        "petrol": 68.81,
+        "hsd": 50.13,
+        "ldo": 44.59,
+        "sko": 41.44,
+        "jp1": 80.07
+      },
+      "change": {
+        "petrol": 0.0,
+        "hsd": 0.0,
+        "ldo": 0.0,
+        "sko": 0.0,
+        "jp1": -4.83
+      }
+    },
+    {
+      "effective_from": "2008-06-29",
+      "products": {
+        "petrol": 75.69,
+        "hsd": 55.14,
+        "ldo": 49.05,
+        "sko": 49.73,
+        "jp1": 84.9
+      },
+      "change": {
+        "petrol": 6.88,
+        "hsd": 5.01,
+        "ldo": 4.46,
+        "sko": 8.29,
+        "jp1": 4.83
+      }
+    },
+    {
+      "effective_from": "2008-07-01",
+      "products": {
+        "petrol": 75.69,
+        "hsd": 55.14,
+        "ldo": 49.05,
+        "sko": 49.73,
+        "jp1": 82.1
+      },
+      "change": {
+        "petrol": 0.0,
+        "hsd": 0.0,
+        "ldo": 0.0,
+        "sko": 0.0,
+        "jp1": -2.8
+      }
+    },
+    {
+      "effective_from": "2008-07-21",
+      "products": {
+        "petrol": 86.66,
+        "hsd": 64.64,
+        "ldo": 56.5,
+        "sko": 58.37,
+        "jp1": 90.36
+      },
+      "change": {
+        "petrol": 10.97,
+        "hsd": 9.5,
+        "ldo": 7.45,
+        "sko": 8.64,
+        "jp1": 8.26
+      }
+    },
+    {
+      "effective_from": "2008-08-01",
+      "products": {
+        "petrol": 86.66,
+        "hsd": 64.64,
+        "ldo": 56.5,
+        "sko": 58.37,
+        "jp1": 86.11
+      },
+      "change": {
+        "petrol": 0.0,
+        "hsd": 0.0,
+        "ldo": 0.0,
+        "sko": 0.0,
+        "jp1": -4.25
+      }
+    },
+    {
+      "effective_from": "2008-08-16",
+      "products": {
+        "petrol": 86.66,
+        "hsd": 64.64,
+        "ldo": 56.5,
+        "sko": 58.37,
+        "jp1": 77.07
+      },
+      "change": {
+        "petrol": 0.0,
+        "hsd": 0.0,
+        "ldo": 0.0,
+        "sko": 0.0,
+        "jp1": -9.04
+      }
+    },
+    {
+      "effective_from": "2008-09-01",
+      "products": {
+        "petrol": 86.66,
+        "hsd": 64.64,
+        "ldo": 56.5,
+        "sko": 58.37,
+        "jp1": 75.34
+      },
+      "change": {
+        "petrol": 0.0,
+        "hsd": 0.0,
+        "ldo": 0.0,
+        "sko": 0.0,
+        "jp1": -1.73
+      }
+    },
+    {
+      "effective_from": "2008-09-16",
+      "products": {
+        "petrol": 81.66,
+        "hsd": 68.14,
+        "ldo": 60.0,
+        "sko": 61.87,
+        "jp1": 71.44
+      },
+      "change": {
+        "petrol": -5.0,
+        "hsd": 3.5,
+        "ldo": 3.5,
+        "sko": 3.5,
+        "jp1": -3.9
+      }
+    },
+    {
+      "effective_from": "2008-10-01",
+      "products": {
+        "petrol": 81.66,
+        "hsd": 68.14,
+        "ldo": 60.0,
+        "sko": 61.87,
+        "jp1": 69.01
+      },
+      "change": {
+        "petrol": 0.0,
+        "hsd": 0.0,
+        "ldo": 0.0,
+        "sko": 0.0,
+        "jp1": -2.43
+      }
+    },
+    {
+      "effective_from": "2008-10-16",
+      "products": {
+        "petrol": 81.66,
+        "hsd": 68.14,
+        "ldo": 60.0,
+        "sko": 61.87,
+        "jp1": 59.75
+      },
+      "change": {
+        "petrol": 0.0,
+        "hsd": 0.0,
+        "ldo": 0.0,
+        "sko": 0.0,
+        "jp1": -9.26
+      }
+    },
+    {
+      "effective_from": "2008-11-01",
+      "products": {
+        "petrol": 76.66,
+        "hsd": 64.14,
+        "ldo": 60.0,
+        "sko": 61.87,
+        "jp1": 50.9
+      },
+      "change": {
+        "petrol": -5.0,
+        "hsd": -4.0,
+        "ldo": 0.0,
+        "sko": 0.0,
+        "jp1": -8.85
+      }
+    },
+    {
+      "effective_from": "2008-11-16",
+      "products": {
+        "petrol": 66.66,
+        "hsd": 61.14,
+        "ldo": 53.0,
+        "sko": 56.87,
+        "jp1": 48.57
+      },
+      "change": {
+        "petrol": -10.0,
+        "hsd": -3.0,
+        "ldo": -7.0,
+        "sko": -5.0,
+        "jp1": -2.33
+      }
+    },
+    {
+      "effective_from": "2008-12-01",
+      "products": {
+        "petrol": 51.66,
+        "hsd": 57.14,
+        "ldo": 48.0,
+        "sko": 51.87,
+        "jp1": 42.54
+      },
+      "change": {
+        "petrol": -15.0,
+        "hsd": -4.0,
+        "ldo": -5.0,
+        "sko": -5.0,
+        "jp1": -6.03
+      }
+    },
+    {
+      "effective_from": "2008-12-16",
+      "products": {
+        "petrol": 57.66,
+        "hsd": 57.14,
+        "ldo": 48.0,
+        "sko": 51.87,
+        "jp1": 36.4
+      },
+      "change": {
+        "petrol": 6.0,
+        "hsd": 0.0,
+        "ldo": 0.0,
+        "sko": 0.0,
+        "jp1": -6.14
+      }
+    },
+    {
+      "effective_from": "2009-01-01",
+      "products": {
+        "petrol": 57.66,
+        "hsd": 57.14,
+        "ldo": 48.0,
+        "sko": 51.87,
+        "jp1": 35.89
+      },
+      "change": {
+        "petrol": 0.0,
+        "hsd": 0.0,
+        "ldo": 0.0,
+        "sko": 0.0,
+        "jp1": -0.51
+      }
+    },
+    {
+      "effective_from": "2009-02-01",
+      "products": {
+        "petrol": 57.66,
+        "hsd": 57.14,
+        "ldo": 48.0,
+        "sko": 51.87,
+        "jp1": 35.62
+      },
+      "change": {
+        "petrol": 0.0,
+        "hsd": 0.0,
+        "ldo": 0.0,
+        "sko": 0.0,
+        "jp1": -0.27
+      }
+    },
+    {
+      "effective_from": "2009-03-01",
+      "products": {
+        "petrol": 57.66,
+        "hsd": 57.14,
+        "ldo": 48.0,
+        "sko": 51.87,
+        "jp1": 31.24
+      },
+      "change": {
+        "petrol": 0.0,
+        "hsd": 0.0,
+        "ldo": 0.0,
+        "sko": 0.0,
+        "jp1": -4.38
+      }
+    },
+    {
+      "effective_from": "2009-04-01",
+      "products": {
+        "petrol": 57.66,
+        "hsd": 57.14,
+        "ldo": 48.0,
+        "sko": 51.87,
+        "jp1": 31.83
+      },
+      "change": {
+        "petrol": 0.0,
+        "hsd": 0.0,
+        "ldo": 0.0,
+        "sko": 0.0,
+        "jp1": 0.59
+      }
+    },
+    {
+      "effective_from": "2009-05-01",
+      "products": {
+        "petrol": 57.66,
+        "hsd": 57.14,
+        "ldo": 48.0,
+        "sko": 51.87,
+        "jp1": 31.83
+      },
+      "change": {
+        "petrol": 0.0,
+        "hsd": 0.0,
+        "ldo": 0.0,
+        "sko": 0.0,
+        "jp1": 0.0
+      }
+    },
+    {
+      "effective_from": "2009-05-22",
+      "products": {
+        "petrol": 56.21,
+        "hsd": 55.71,
+        "ldo": 48.0,
+        "sko": 51.87,
+        "jp1": 31.83
+      },
+      "change": {
+        "petrol": -1.45,
+        "hsd": -1.43,
+        "ldo": 0.0,
+        "sko": 0.0,
+        "jp1": 0.0
+      }
+    },
+    {
+      "effective_from": "2009-06-01",
+      "products": {
+        "petrol": 56.21,
+        "hsd": 55.71,
+        "ldo": 48.0,
+        "sko": 51.81,
+        "jp1": 38.29
+      },
+      "change": {
+        "petrol": 0.0,
+        "hsd": 0.0,
+        "ldo": 0.0,
+        "sko": -0.06,
+        "jp1": 6.46
+      }
+    },
+    {
+      "effective_from": "2009-07-01",
+      "products": {
+        "petrol": 62.13,
+        "hsd": 62.65,
+        "ldo": 54.94,
+        "sko": 59.35,
+        "jp1": 45.82
+      },
+      "change": {
+        "petrol": 5.92,
+        "hsd": 6.94,
+        "ldo": 6.94,
+        "sko": 7.54,
+        "jp1": 7.53
+      }
+    },
+    {
+      "effective_from": "2009-07-08",
+      "products": {
+        "petrol": 50.53,
+        "hsd": 53.37,
+        "ldo": 51.46,
+        "sko": 52.39,
+        "jp1": 45.82
+      },
+      "change": {
+        "petrol": -11.6,
+        "hsd": -9.28,
+        "ldo": -3.48,
+        "sko": -6.96,
+        "jp1": 0.0
+      }
+    },
+    {
+      "effective_from": "2009-07-09",
+      "products": {
+        "petrol": 62.13,
+        "hsd": 62.65,
+        "ldo": 54.94,
+        "sko": 59.35,
+        "jp1": 45.82
+      },
+      "change": {
+        "petrol": 11.6,
+        "hsd": 9.28,
+        "ldo": 3.48,
+        "sko": 6.96,
+        "jp1": 0.0
+      }
+    },
+    {
+      "effective_from": "2009-08-01",
+      "products": {
+        "petrol": 60.46,
+        "hsd": 61.41,
+        "ldo": 53.27,
+        "sko": 57.91,
+        "jp1": 44.38
+      },
+      "change": {
+        "petrol": -1.67,
+        "hsd": -1.24,
+        "ldo": -1.67,
+        "sko": -1.44,
+        "jp1": -1.44
+      }
+    },
+    {
+      "effective_from": "2009-09-01",
+      "products": {
+        "petrol": 65.26,
+        "hsd": 66.0,
+        "ldo": 56.96,
+        "sko": 60.6,
+        "jp1": 48.12
+      },
+      "change": {
+        "petrol": 4.8,
+        "hsd": 4.59,
+        "ldo": 3.69,
+        "sko": 2.69,
+        "jp1": 3.74
+      }
+    },
+    {
+      "effective_from": "2009-10-01",
+      "products": {
+        "petrol": 61.63,
+        "hsd": 64.79,
+        "ldo": 54.97,
+        "sko": 57.87,
+        "jp1": 46.03
+      },
+      "change": {
+        "petrol": -3.63,
+        "hsd": -1.21,
+        "ldo": -1.99,
+        "sko": -2.73,
+        "jp1": -2.09
+      }
+    },
+    {
+      "effective_from": "2009-11-01",
+      "products": {
+        "petrol": 61.63,
+        "hsd": 64.79,
+        "ldo": 54.97,
+        "sko": 57.87,
+        "jp1": 48.37
+      },
+      "change": {
+        "petrol": 0.0,
+        "hsd": 0.0,
+        "ldo": 0.0,
+        "sko": 0.0,
+        "jp1": 2.34
+      }
+    },
+    {
+      "effective_from": "2009-12-01",
+      "products": {
+        "petrol": 66.0,
+        "hsd": 70.52,
+        "ldo": 60.22,
+        "sko": 52.63,
+        "jp1": 52.29
+      },
+      "change": {
+        "petrol": 4.37,
+        "hsd": 5.73,
+        "ldo": 5.25,
+        "sko": -5.24,
+        "jp1": 3.92
+      }
+    },
+    {
+      "effective_from": "2010-01-01",
+      "products": {
+        "e10": 62.61,
+        "petrol": 65.11,
+        "hsd": 68.56,
+        "ldo": 58.1,
+        "sko": 60.75,
+        "jp1": 50.7
+      },
+      "change": {
+        "petrol": -0.89,
+        "hsd": -1.96,
+        "ldo": -2.12,
+        "sko": 8.12,
+        "jp1": -1.59
+      }
+    },
+    {
+      "effective_from": "2010-02-01",
+      "products": {
+        "e10": 62.61,
+        "petrol": 71.21,
+        "hsd": 71.86,
+        "ldo": 61.07,
+        "sko": 64.06,
+        "jp1": 53.41
+      },
+      "change": {
+        "e10": 0.0,
+        "petrol": 6.1,
+        "hsd": 3.3,
+        "ldo": 2.97,
+        "sko": 3.31,
+        "jp1": 2.71
+      }
+    },
+    {
+      "effective_from": "2010-03-01",
+      "products": {
+        "petrol": 70.57,
+        "hsd": 69.89,
+        "ldo": 59.47,
+        "sko": 61.5,
+        "jp1": 51.25
+      },
+      "change": {
+        "petrol": -0.64,
+        "hsd": -1.97,
+        "ldo": -1.6,
+        "sko": -2.56,
+        "jp1": -2.16
+      }
+    },
+    {
+      "effective_from": "2010-04-01",
+      "products": {
+        "e10": 70.64,
+        "petrol": 73.14,
+        "hsd": 73.39,
+        "ldo": 62.2,
+        "sko": 64.81,
+        "jp1": 54.54
+      },
+      "change": {
+        "petrol": 2.57,
+        "hsd": 3.5,
+        "ldo": 2.73,
+        "sko": 3.31,
+        "jp1": 3.29
+      }
+    },
+    {
+      "effective_from": "2010-05-01",
+      "products": {
+        "petrol": 75.08,
+        "hsd": 76.8,
+        "ldo": 65.76,
+        "sko": 68.89
+      },
+      "change": {
+        "petrol": 1.94,
+        "hsd": 3.41,
+        "ldo": 3.56,
+        "sko": 4.08
+      }
+    },
+    {
+      "effective_from": "2010-06-01",
+      "products": {
+        "petrol": 69.04,
+        "hsd": 75.72,
+        "ldo": 62.61,
+        "sko": 65.49,
+        "jp1": 55.36
+      },
+      "change": {
+        "petrol": -6.04,
+        "hsd": -1.08,
+        "ldo": -3.15,
+        "sko": -3.4
+      }
+    },
+    {
+      "effective_from": "2010-07-01",
+      "products": {
+        "petrol": 67.95,
+        "hsd": 71.58,
+        "ldo": 61.66,
+        "sko": 65.38,
+        "jp1": 55.2
+      },
+      "change": {
+        "petrol": -1.09,
+        "hsd": -4.14,
+        "ldo": -0.95,
+        "sko": -0.11,
+        "jp1": -0.16
+      }
+    },
+    {
+      "effective_from": "2010-08-01",
+      "products": {
+        "petrol": 67.74,
+        "hsd": 73.03,
+        "ldo": 61.35,
+        "sko": 64.85,
+        "jp1": 54.76
+      },
+      "change": {
+        "petrol": -0.21,
+        "hsd": 1.45,
+        "ldo": -0.31,
+        "sko": -0.53,
+        "jp1": -0.44
+      }
+    },
+    {
+      "effective_from": "2010-09-01",
+      "products": {
+        "petrol": 67.26,
+        "hsd": 74.6,
+        "ldo": 62.67,
+        "sko": 65.57,
+        "jp1": 55.45
+      },
+      "change": {
+        "petrol": -0.48,
+        "hsd": 1.57,
+        "ldo": 1.32,
+        "sko": 0.72,
+        "jp1": 0.69
+      }
+    },
+    {
+      "effective_from": "2010-10-01",
+      "products": {
+        "petrol": 66.99,
+        "hsd": 73.82,
+        "ldo": 62.34,
+        "sko": 65.8,
+        "jp1": 65.65
+      },
+      "change": {
+        "petrol": -0.27,
+        "hsd": -0.78,
+        "ldo": -0.33,
+        "sko": 0.23,
+        "jp1": 10.2
+      }
+    },
+    {
+      "effective_from": "2010-10-22",
+      "products": {
+        "petrol": 101.08,
+        "hsd": 113.29,
+        "sko": 103.0
+      },
+      "change": {
+        "petrol": 34.09,
+        "hsd": 39.47,
+        "sko": 37.2
+      }
+    },
+    {
+      "effective_from": "2010-11-01",
+      "products": {
+        "petrol": 72.96,
+        "hsd": 78.33,
+        "ldo": 66.61,
+        "sko": 70.95,
+        "jp1": 60.26
+      },
+      "change": {
+        "petrol": -28.12,
+        "hsd": -34.96,
+        "sko": -32.05
+      }
+    },
+    {
+      "effective_from": "2010-12-01",
+      "products": {
+        "petrol": 72.96,
+        "hsd": 78.33,
+        "ldo": 66.61,
+        "sko": 70.95,
+        "jp1": 61.18
+      },
+      "change": {
+        "petrol": 0.0,
+        "hsd": 0.0,
+        "ldo": 0.0,
+        "sko": 0.0,
+        "jp1": 0.92
+      }
+    },
+    {
+      "effective_from": "2011-01-01",
+      "products": {
+        "petrol": 79.67,
+        "hsd": 82.58,
+        "ldo": 70.97,
+        "sko": 74.99,
+        "jp1": 64.65
+      },
+      "change": {
+        "petrol": 6.71,
+        "hsd": 4.25,
+        "ldo": 4.36,
+        "sko": 4.04,
+        "jp1": 3.47
+      }
+    },
+    {
+      "effective_from": "2011-01-07",
+      "products": {
+        "petrol": 72.96,
+        "hsd": 78.33,
+        "ldo": 66.61,
+        "sko": 70.95,
+        "jp1": 64.65
+      },
+      "change": {
+        "petrol": -6.71,
+        "hsd": -4.25,
+        "ldo": -4.36,
+        "sko": -4.04,
+        "jp1": 0.0
+      }
+    },
+    {
+      "effective_from": "2011-02-01",
+      "products": {
+        "petrol": 72.96,
+        "hsd": 78.33,
+        "ldo": 66.61,
+        "sko": 70.95,
+        "jp1": 68.48
+      },
+      "change": {
+        "petrol": 0.0,
+        "hsd": 0.0,
+        "ldo": 0.0,
+        "sko": 0.0,
+        "jp1": 3.83
+      }
+    },
+    {
+      "effective_from": "2011-03-01",
+      "products": {
+        "e10": 77.69,
+        "petrol": 80.19,
+        "hsd": 86.09,
+        "ldo": 73.21,
+        "sko": 77.95,
+        "jp1": 74.37
+      },
+      "change": {
+        "petrol": 7.23,
+        "hsd": 7.76,
+        "ldo": 6.6,
+        "sko": 7.0,
+        "jp1": 5.89
+      }
+    },
+    {
+      "effective_from": "2011-03-05",
+      "products": {
+        "e10": 74.08,
+        "petrol": 76.58,
+        "hsd": 82.22,
+        "ldo": 69.91,
+        "sko": 74.45,
+        "jp1": 74.37
+      },
+      "change": {
+        "e10": -3.61,
+        "petrol": -3.61,
+        "hsd": -3.87,
+        "ldo": -3.3,
+        "sko": -3.5,
+        "jp1": 0.0
+      }
+    },
+    {
+      "effective_from": "2011-03-15",
+      "products": {
+        "e10": 74.08,
+        "petrol": 76.58,
+        "hsd": 82.22,
+        "ldo": 69.91,
+        "sko": 74.45,
+        "jp1": 74.37
+      },
+      "change": {
+        "e10": 0.0,
+        "petrol": 0.0,
+        "hsd": 0.0,
+        "ldo": 0.0,
+        "sko": 0.0,
+        "jp1": 0.0
+      }
+    },
+    {
+      "effective_from": "2011-04-01",
+      "products": {
+        "e10": 81.06,
+        "petrol": 83.56,
+        "hsd": 92.89,
+        "ldo": 78.98,
+        "sko": 84.1,
+        "jp1": 82.95
+      },
+      "change": {
+        "e10": 6.98,
+        "petrol": 6.98,
+        "hsd": 10.67,
+        "ldo": 9.07,
+        "sko": 9.65,
+        "jp1": 8.58
+      }
+    },
+    {
+      "effective_from": "2011-05-01",
+      "products": {
+        "petrol": 88.41,
+        "hsd": 97.31,
+        "ldo": 88.3,
+        "sko": 89.7,
+        "jp1": 86.44
+      },
+      "change": {
+        "petrol": 4.85,
+        "hsd": 4.42,
+        "ldo": 9.32,
+        "sko": 5.6,
+        "jp1": 3.49
+      }
+    },
+    {
+      "effective_from": "2011-06-01",
+      "products": {
+        "e10": 84.2,
+        "petrol": 86.71,
+        "hsd": 94.11,
+        "ldo": 88.3,
+        "sko": 84.65,
+        "jp1": 83.91
+      },
+      "change": {
+        "petrol": -1.7,
+        "hsd": -3.2,
+        "ldo": 0.0,
+        "sko": -5.05,
+        "jp1": -2.53
+      }
+    },
+    {
+      "effective_from": "2011-07-01",
+      "products": {
+        "e10": 81.21,
+        "petrol": 83.71,
+        "hsd": 92.1,
+        "ldo": 80.91,
+        "sko": 84.65,
+        "jp1": 81.04
+      },
+      "change": {
+        "e10": -2.99,
+        "petrol": -3.0,
+        "hsd": -2.01,
+        "ldo": -7.39,
+        "sko": 0.0,
+        "jp1": -2.87
+      }
+    },
+    {
+      "effective_from": "2011-08-01",
+      "products": {
+        "e10": 82.3,
+        "petrol": 84.8,
+        "hsd": 92.1,
+        "ldo": 83.52,
+        "sko": 86.62,
+        "jp1": 83.04
+      },
+      "change": {
+        "e10": 1.09,
+        "petrol": 1.09,
+        "hsd": 0.0,
+        "ldo": 2.61,
+        "sko": 1.97,
+        "jp1": 2.0
+      }
+    },
+    {
+      "effective_from": "2011-08-26",
+      "products": {
+        "petrol": 84.8,
+        "hsd": 92.64,
+        "ldo": 83.52,
+        "sko": 86.62
+      },
+      "change": {
+        "petrol": 0.0,
+        "hsd": 0.54,
+        "ldo": 0.0,
+        "sko": 0.0
+      }
+    },
+    {
+      "effective_from": "2011-10-01",
+      "products": {
+        "e10": 86.45,
+        "petrol": 88.95,
+        "hsd": 94.15,
+        "ldo": 83.52,
+        "sko": 86.62,
+        "jp1": 79.12
+      },
+      "change": {
+        "petrol": 4.15,
+        "hsd": 1.51,
+        "ldo": 0.0,
+        "sko": 0.0
+      }
+    },
+    {
+      "effective_from": "2011-11-01",
+      "products": {
+        "e10": 84.91,
+        "petrol": 87.41,
+        "hsd": 94.15,
+        "ldo": 81.99,
+        "sko": 85.76,
+        "jp1": 76.75
+      },
+      "change": {
+        "e10": -1.54,
+        "petrol": -1.54,
+        "hsd": 0.0,
+        "ldo": -1.53,
+        "sko": -0.86,
+        "jp1": -2.37
+      }
+    },
+    {
+      "effective_from": "2011-12-01",
+      "products": {
+        "e10": 85.39,
+        "petrol": 87.89,
+        "hsd": 98.82,
+        "ldo": 86.78,
+        "sko": 89.24,
+        "jp1": 81.88
+      },
+      "change": {
+        "e10": 0.48,
+        "petrol": 0.48,
+        "hsd": 4.67,
+        "ldo": 4.79,
+        "sko": 3.48,
+        "jp1": 5.13
+      }
+    },
+    {
+      "effective_from": "2012-01-01",
+      "products": {
+        "e10": 87.05,
+        "petrol": 89.54,
+        "hsd": 98.82,
+        "ldo": 86.78,
+        "sko": 89.24,
+        "jp1": 81.88
+      },
+      "change": {
+        "e10": 1.66,
+        "petrol": 1.65,
+        "hsd": 0.0,
+        "ldo": 0.0,
+        "sko": 0.0,
+        "jp1": 0.0
+      }
+    },
+    {
+      "effective_from": "2012-02-01",
+      "products": {
+        "petrol": 94.91,
+        "hsd": 103.46,
+        "ldo": 90.21,
+        "sko": 92.02,
+        "jp1": 83.43
+      },
+      "change": {
+        "petrol": 5.37,
+        "hsd": 4.64,
+        "ldo": 3.43,
+        "sko": 2.78,
+        "jp1": 1.55
+      }
+    },
+    {
+      "effective_from": "2012-03-01",
+      "products": {
+        "e10": 95.17,
+        "petrol": 97.66,
+        "hsd": 103.46,
+        "ldo": 93.29,
+        "sko": 96.4,
+        "jp1": 87.9
+      },
+      "change": {
+        "petrol": 2.75,
+        "hsd": 0.0,
+        "ldo": 3.08,
+        "sko": 4.38,
+        "jp1": 4.47
+      }
+    },
+    {
+      "effective_from": "2012-04-01",
+      "products": {
+        "e10": 103.18,
+        "petrol": 105.68,
+        "hsd": 108.16,
+        "ldo": 98.74,
+        "sko": 101.69,
+        "jp1": 90.79
+      },
+      "change": {
+        "e10": 8.01,
+        "petrol": 8.02,
+        "hsd": 4.7,
+        "ldo": 5.45,
+        "sko": 5.29,
+        "jp1": 2.89
+      }
+    },
+    {
+      "effective_from": "2012-04-04",
+      "products": {
+        "petrol": 103.36,
+        "hsd": 107.0,
+        "ldo": 98.74,
+        "sko": 99.95,
+        "jp1": 90.79
+      },
+      "change": {
+        "petrol": -2.32,
+        "hsd": -1.16,
+        "ldo": 0.0,
+        "sko": -1.74,
+        "jp1": 0.0
+      }
+    },
+    {
+      "effective_from": "2012-05-01",
+      "products": {
+        "e10": 100.86,
+        "petrol": 103.36,
+        "hsd": 107.0,
+        "ldo": 98.74,
+        "sko": 99.95,
+        "jp1": 90.79
+      },
+      "change": {
+        "petrol": 0.0,
+        "hsd": 0.0,
+        "ldo": 0.0,
+        "sko": 0.0,
+        "jp1": 0.0
+      }
+    },
+    {
+      "effective_from": "2012-06-01",
+      "products": {
+        "e10": 97.47,
+        "petrol": 99.97,
+        "hsd": 105.77,
+        "ldo": 91.59,
+        "sko": 94.05,
+        "jp1": 87.13
+      },
+      "change": {
+        "e10": -3.39,
+        "petrol": -3.39,
+        "hsd": -1.23,
+        "ldo": -7.15,
+        "sko": -5.9,
+        "jp1": -3.66
+      }
+    },
+    {
+      "effective_from": "2012-06-16",
+      "products": {
+        "e10": 87.01,
+        "petrol": 89.51,
+        "hsd": 99.69,
+        "ldo": 86.57,
+        "sko": 88.79,
+        "jp1": 78.43
+      },
+      "change": {
+        "e10": -10.46,
+        "petrol": -10.46,
+        "hsd": -6.08,
+        "ldo": -5.02,
+        "sko": -5.26,
+        "jp1": -8.7
+      }
+    },
+    {
+      "effective_from": "2012-07-01",
+      "products": {
+        "e10": 81.99,
+        "petrol": 84.99,
+        "hsd": 97.21,
+        "ldo": 83.71,
+        "sko": 86.25,
+        "jp1": 75.95
+      },
+      "change": {
+        "e10": -5.02,
+        "petrol": -4.52,
+        "hsd": -2.48,
+        "ldo": -2.86,
+        "sko": -2.54,
+        "jp1": -2.48
+      }
+    },
+    {
+      "effective_from": "2012-07-16",
+      "products": {
+        "e10": 83.4,
+        "petrol": 85.9,
+        "hsd": 97.21,
+        "ldo": 85.33,
+        "sko": 88.19,
+        "jp1": 77.92
+      },
+      "change": {
+        "e10": 1.41,
+        "petrol": 0.91,
+        "hsd": 0.0,
+        "ldo": 1.62,
+        "sko": 1.94,
+        "jp1": 1.97
+      }
+    },
+    {
+      "effective_from": "2012-08-01",
+      "products": {
+        "petrol": 93.57,
+        "hsd": 101.79,
+        "ldo": 90.11,
+        "sko": 92.83,
+        "jp1": 82.36
+      },
+      "change": {
+        "petrol": 7.67,
+        "hsd": 4.58,
+        "ldo": 4.78,
+        "sko": 4.64,
+        "jp1": 4.44
+      }
+    },
+    {
+      "effective_from": "2012-08-16",
+      "products": {
+        "petrol": 93.57,
+        "hsd": 101.79,
+        "sko": 92.83
+      },
+      "change": {
+        "petrol": 0.0,
+        "hsd": 0.0,
+        "sko": 0.0
+      }
+    },
+    {
+      "effective_from": "2012-08-23",
+      "products": {
+        "petrol": 96.78,
+        "hsd": 106.19,
+        "ldo": 93.3,
+        "sko": 96.35
+      },
+      "change": {
+        "petrol": 3.21,
+        "hsd": 4.4,
+        "sko": 3.52
+      }
+    },
+    {
+      "effective_from": "2012-09-01",
+      "products": {
+        "petrol": 104.55,
+        "hsd": 112.13,
+        "ldo": 98.84,
+        "sko": 102.21
+      },
+      "change": {
+        "petrol": 7.77,
+        "hsd": 5.94,
+        "ldo": 5.54,
+        "sko": 5.86
+      }
+    },
+    {
+      "effective_from": "2012-09-10",
+      "products": {
+        "petrol": 99.9,
+        "hsd": 115.52,
+        "ldo": 99.41,
+        "sko": 104.0,
+        "jp1": 93.67
+      },
+      "change": {
+        "petrol": -4.65,
+        "hsd": 3.39,
+        "ldo": 0.57,
+        "sko": 1.79
+      }
+    },
+    {
+      "effective_from": "2012-09-17",
+      "products": {
+        "petrol": 106.72,
+        "hsd": 113.77,
+        "ldo": 99.27,
+        "sko": 104.68,
+        "jp1": 94.25
+      },
+      "change": {
+        "petrol": 6.82,
+        "hsd": -1.75,
+        "ldo": -0.14,
+        "sko": 0.68,
+        "jp1": 0.58
+      }
+    },
+    {
+      "effective_from": "2012-09-24",
+      "products": {
+        "petrol": 108.45,
+        "hsd": 113.3,
+        "ldo": 97.17,
+        "sko": 101.36
+      },
+      "change": {
+        "petrol": 1.73,
+        "hsd": -0.47,
+        "ldo": -2.1,
+        "sko": -3.32
+      }
+    },
+    {
+      "effective_from": "2012-10-01",
+      "products": {
+        "e10": 99.95,
+        "petrol": 102.45,
+        "hsd": 113.16,
+        "ldo": 96.22,
+        "sko": 101.23,
+        "jp1": 90.42
+      },
+      "change": {
+        "petrol": -6.0,
+        "hsd": -0.14,
+        "ldo": -0.95,
+        "sko": -0.13
+      }
+    },
+    {
+      "effective_from": "2012-10-08",
+      "products": {
+        "petrol": 105.49,
+        "hsd": 110.46,
+        "ldo": 96.7,
+        "sko": 101.95
+      },
+      "change": {
+        "petrol": 3.04,
+        "hsd": -2.7,
+        "ldo": 0.48,
+        "sko": 0.72
+      }
+    },
+    {
+      "effective_from": "2012-10-15",
+      "products": {
+        "petrol": 103.4,
+        "hsd": 113.62,
+        "ldo": 97.93,
+        "sko": 103.87,
+        "jp1": 93.08
+      },
+      "change": {
+        "petrol": -2.09,
+        "hsd": 3.16,
+        "ldo": 1.23,
+        "sko": 1.92
+      }
+    },
+    {
+      "effective_from": "2012-10-22",
+      "products": {
+        "petrol": 101.08,
+        "hsd": 113.29,
+        "ldo": 97.68,
+        "sko": 103.0,
+        "jp1": 92.46
+      },
+      "change": {
+        "petrol": -2.32,
+        "hsd": -0.33,
+        "ldo": -0.25,
+        "sko": -0.87,
+        "jp1": -0.62
+      }
+    },
+    {
+      "effective_from": "2012-11-22",
+      "products": {
+        "e10": 100.15,
+        "petrol": 102.65,
+        "hsd": 109.77,
+        "ldo": 93.89,
+        "sko": 99.03,
+        "jp1": 88.22
+      },
+      "change": {
+        "petrol": 1.57,
+        "hsd": -3.52,
+        "ldo": -3.79,
+        "sko": -3.97,
+        "jp1": -4.24
+      }
+    },
+    {
+      "effective_from": "2012-12-22",
+      "products": {
+        "e10": 98.92,
+        "petrol": 101.42,
+        "hsd": 110.13,
+        "ldo": 94.34,
+        "sko": 98.81,
+        "jp1": 88.04
+      },
+      "change": {
+        "e10": -1.23,
+        "petrol": -1.23,
+        "hsd": 0.36,
+        "ldo": 0.45,
+        "sko": -0.22,
+        "jp1": -0.18
+      }
+    },
+    {
+      "effective_from": "2013-01-22",
+      "products": {
+        "e10": 100.57,
+        "petrol": 103.07,
+        "hsd": 109.21,
+        "ldo": 94.33,
+        "sko": 99.9,
+        "jp1": 89.24
+      },
+      "change": {
+        "e10": 1.65,
+        "petrol": 1.65,
+        "hsd": -0.92,
+        "ldo": -0.01,
+        "sko": 1.09,
+        "jp1": 1.2
+      }
+    },
+    {
+      "effective_from": "2013-03-01",
+      "products": {
+        "e10": 104.1,
+        "petrol": 106.6,
+        "hsd": 113.56,
+        "sko": 103.69
+      },
+      "change": {
+        "e10": 3.53,
+        "petrol": 3.53,
+        "hsd": 4.35,
+        "sko": 3.79
+      }
+    },
+    {
+      "effective_from": "2013-03-04",
+      "products": {
+        "e10": 100.57,
+        "petrol": 103.07,
+        "hsd": 109.21,
+        "ldo": 94.78,
+        "sko": 99.9,
+        "jp1": 93.52
+      },
+      "change": {
+        "e10": -3.53,
+        "petrol": -3.53,
+        "hsd": -4.35,
+        "sko": -3.79
+      }
+    },
+    {
+      "effective_from": "2013-04-01",
+      "products": {
+        "petrol": 102.3,
+        "hsd": 108.59,
+        "ldo": 93.28,
+        "sko": 98.26,
+        "jp1": 88.65
+      },
+      "change": {
+        "petrol": -0.77,
+        "hsd": -0.62,
+        "ldo": -1.5,
+        "sko": -1.64,
+        "jp1": -4.87
+      }
+    },
+    {
+      "effective_from": "2013-05-01",
+      "products": {
+        "petrol": 97.59,
+        "hsd": 106.06,
+        "ldo": 89.06,
+        "sko": 94.17,
+        "jp1": 83.44
+      },
+      "change": {
+        "petrol": -4.71,
+        "hsd": -2.53,
+        "ldo": -4.22,
+        "sko": -4.09,
+        "jp1": -5.21
+      }
+    },
+    {
+      "effective_from": "2013-06-01",
+      "products": {
+        "petrol": 99.77,
+        "hsd": 104.6,
+        "ldo": 89.13,
+        "sko": 93.79,
+        "jp1": 83.08
+      },
+      "change": {
+        "petrol": 2.18,
+        "hsd": -1.46,
+        "ldo": 0.07,
+        "sko": -0.38,
+        "jp1": -0.36
+      }
+    },
+    {
+      "effective_from": "2013-06-13",
+      "products": {
+        "e10": 98.13,
+        "petrol": 100.63,
+        "hsd": 105.5,
+        "ldo": 89.9,
+        "sko": 94.59,
+        "jp1": 83.8
+      },
+      "change": {
+        "petrol": 0.86,
+        "hsd": 0.9,
+        "ldo": 0.77,
+        "sko": 0.8,
+        "jp1": 0.72
+      }
+    },
+    {
+      "effective_from": "2013-06-21",
+      "products": {
+        "e10": 97.27,
+        "petrol": 99.77,
+        "hsd": 104.6,
+        "ldo": 89.13,
+        "sko": 93.79,
+        "jp1": 83.08
+      },
+      "change": {
+        "e10": -0.86,
+        "petrol": -0.86,
+        "hsd": -0.9,
+        "ldo": -0.77,
+        "sko": -0.8,
+        "jp1": -0.72
+      }
+    },
+    {
+      "effective_from": "2013-07-09",
+      "products": {
+        "e10": 99.27,
+        "petrol": 101.77,
+        "hsd": 106.76,
+        "ldo": 92.17,
+        "sko": 96.29,
+        "jp1": 84.9
+      },
+      "change": {
+        "e10": 2.0,
+        "petrol": 2.0,
+        "hsd": 2.16,
+        "ldo": 3.04,
+        "sko": 2.5,
+        "jp1": 1.82
+      }
+    },
+    {
+      "effective_from": "2013-08-01",
+      "products": {
+        "e10": 102.0,
+        "petrol": 104.5,
+        "hsd": 109.76,
+        "ldo": 96.12,
+        "sko": 101.28,
+        "jp1": 89.88
+      },
+      "change": {
+        "e10": 2.73,
+        "petrol": 2.73,
+        "hsd": 3.0,
+        "ldo": 3.95,
+        "sko": 4.99,
+        "jp1": 4.98
+      }
+    },
+    {
+      "effective_from": "2013-09-01",
+      "products": {
+        "e10": 106.63,
+        "petrol": 109.13,
+        "hsd": 112.26,
+        "ldo": 98.43,
+        "sko": 105.99,
+        "jp1": 94.29
+      },
+      "change": {
+        "e10": 4.63,
+        "petrol": 4.63,
+        "hsd": 2.5,
+        "ldo": 2.31,
+        "sko": 4.71,
+        "jp1": 4.41
+      }
+    },
+    {
+      "effective_from": "2013-10-01",
+      "products": {
+        "e10": 110.74,
+        "petrol": 113.24,
+        "hsd": 116.95,
+        "ldo": 101.24,
+        "sko": 108.13
+      },
+      "change": {
+        "e10": 4.11,
+        "petrol": 4.11,
+        "hsd": 4.69,
+        "ldo": 2.81,
+        "sko": 2.14
+      }
+    },
+    {
+      "effective_from": "2013-11-01",
+      "products": {
+        "e10": 110.26,
+        "petrol": 112.76,
+        "hsd": 116.75,
+        "ldo": 101.24,
+        "sko": 108.0,
+        "jp1": 96.35
+      },
+      "change": {
+        "e10": -0.48,
+        "petrol": -0.48,
+        "hsd": -0.2,
+        "ldo": 0.0,
+        "sko": -0.13
+      }
+    },
+    {
+      "effective_from": "2013-12-01",
+      "products": {
+        "e10": 110.26,
+        "petrol": 112.76,
+        "hsd": 116.75,
+        "ldo": 101.24,
+        "sko": 108.0,
+        "jp1": 97.44
+      },
+      "change": {
+        "e10": 0.0,
+        "petrol": 0.0,
+        "hsd": 0.0,
+        "ldo": 0.0,
+        "sko": 0.0,
+        "jp1": 1.09
+      }
+    },
+    {
+      "effective_from": "2014-01-01",
+      "products": {
+        "e10": 110.26,
+        "petrol": 112.76,
+        "hsd": 116.75,
+        "ldo": 101.24,
+        "sko": 108.0,
+        "jp1": 100.18
+      },
+      "change": {
+        "e10": 0.0,
+        "petrol": 0.0,
+        "hsd": 0.0,
+        "ldo": 0.0,
+        "sko": 0.0,
+        "jp1": 2.74
+      }
+    },
+    {
+      "effective_from": "2014-02-01",
+      "products": {
+        "e10": 110.26,
+        "petrol": 112.76,
+        "hsd": 116.75,
+        "ldo": 100.22,
+        "sko": 106.76,
+        "jp1": 95.27
+      },
+      "change": {
+        "e10": 0.0,
+        "petrol": 0.0,
+        "hsd": 0.0,
+        "ldo": -1.02,
+        "sko": -1.24,
+        "jp1": -4.91
+      }
+    },
+    {
+      "effective_from": "2014-03-01",
+      "products": {
+        "e10": 107.53,
+        "petrol": 110.03,
+        "hsd": 116.75,
+        "ldo": 100.22,
+        "sko": 106.76,
+        "jp1": 95.5
+      },
+      "change": {
+        "e10": -2.73,
+        "petrol": -2.73,
+        "hsd": 0.0,
+        "ldo": 0.0,
+        "sko": 0.0,
+        "jp1": 0.23
+      }
+    },
+    {
+      "effective_from": "2014-04-01",
+      "products": {
+        "e10": 105.81,
+        "petrol": 108.31,
+        "hsd": 113.85,
+        "ldo": 95.06,
+        "sko": 101.15,
+        "jp1": 89.22
+      },
+      "change": {
+        "e10": -1.72,
+        "petrol": -1.72,
+        "hsd": -2.9,
+        "ldo": -5.16,
+        "sko": -5.61,
+        "jp1": -6.28
+      }
+    },
+    {
+      "effective_from": "2014-05-01",
+      "products": {
+        "e10": 105.48,
+        "petrol": 107.97,
+        "hsd": 109.34,
+        "ldo": 94.13,
+        "sko": 98.07,
+        "jp1": 86.77
+      },
+      "change": {
+        "e10": -0.33,
+        "petrol": -0.34,
+        "hsd": -4.51,
+        "ldo": -0.93,
+        "sko": -3.08,
+        "jp1": -2.45
+      }
+    },
+    {
+      "effective_from": "2014-06-01",
+      "products": {
+        "e10": 105.48,
+        "petrol": 107.97,
+        "hsd": 109.34,
+        "ldo": 94.13,
+        "sko": 97.4,
+        "jp1": 87.13
+      },
+      "change": {
+        "e10": 0.0,
+        "petrol": 0.0,
+        "hsd": 0.0,
+        "ldo": 0.0,
+        "sko": -0.67,
+        "jp1": 0.36
+      }
+    },
+    {
+      "effective_from": "2014-07-01",
+      "products": {
+        "e10": 105.48,
+        "petrol": 107.97,
+        "hsd": 109.34,
+        "ldo": 94.13,
+        "sko": 97.4,
+        "jp1": 86.71
+      },
+      "change": {
+        "e10": 0.0,
+        "petrol": 0.0,
+        "hsd": 0.0,
+        "ldo": 0.0,
+        "sko": 0.0,
+        "jp1": -0.42
+      }
+    },
+    {
+      "effective_from": "2014-08-01",
+      "products": {
+        "e10": 105.48,
+        "petrol": 107.97,
+        "hsd": 109.34,
+        "ldo": 93.27,
+        "sko": 97.05,
+        "jp1": 86.74
+      },
+      "change": {
+        "e10": 0.0,
+        "petrol": 0.0,
+        "hsd": 0.0,
+        "ldo": -0.86,
+        "sko": -0.35,
+        "jp1": 0.03
+      }
+    },
+    {
+      "effective_from": "2014-09-01",
+      "products": {
+        "e10": 104.06,
+        "petrol": 106.56,
+        "hsd": 108.34,
+        "sko": 96.99
+      },
+      "change": {
+        "e10": -1.42,
+        "petrol": -1.41,
+        "hsd": -1.0,
+        "sko": -0.06
+      }
+    },
+    {
+      "effective_from": "2014-10-01",
+      "products": {
+        "e10": 101.12,
+        "petrol": 103.62,
+        "hsd": 107.39,
+        "ldo": 91.41,
+        "sko": 95.68,
+        "jp1": 85.2
+      },
+      "change": {
+        "e10": -2.94,
+        "petrol": -2.94,
+        "hsd": -0.95,
+        "sko": -1.31
+      }
+    },
+    {
+      "effective_from": "2014-11-01",
+      "products": {
+        "e10": 91.69,
+        "petrol": 94.19,
+        "hsd": 101.21,
+        "ldo": 83.37,
+        "sko": 87.52,
+        "jp1": 77.36
+      },
+      "change": {
+        "e10": -9.43,
+        "petrol": -9.43,
+        "hsd": -6.18,
+        "ldo": -8.04,
+        "sko": -8.16,
+        "jp1": -7.84
+      }
+    },
+    {
+      "effective_from": "2014-12-01",
+      "products": {
+        "e10": 82.03,
+        "petrol": 84.53,
+        "hsd": 94.09,
+        "ldo": 77.98,
+        "sko": 83.18,
+        "jp1": 70.29
+      },
+      "change": {
+        "e10": -9.66,
+        "petrol": -9.66,
+        "hsd": -7.12,
+        "ldo": -5.39,
+        "sko": -4.34,
+        "jp1": -7.07
+      }
+    },
+    {
+      "effective_from": "2015-01-01",
+      "products": {
+        "e10": 75.78,
+        "petrol": 78.28,
+        "hsd": 86.23,
+        "jp1": 59.1
+      },
+      "change": {
+        "e10": -6.25,
+        "petrol": -6.25,
+        "hsd": -7.86,
+        "jp1": -11.19
+      }
+    },
+    {
+      "effective_from": "2015-02-01",
+      "products": {
+        "e10": 67.79,
+        "petrol": 70.29,
+        "hsd": 80.61
+      },
+      "change": {
+        "e10": -7.99,
+        "petrol": -7.99,
+        "hsd": -5.62
+      }
+    },
+    {
+      "effective_from": "2015-03-01",
+      "products": {
+        "e10": 67.79,
+        "petrol": 70.29,
+        "hsd": 80.61
+      },
+      "change": {
+        "e10": 0.0,
+        "petrol": 0.0,
+        "hsd": 0.0
+      }
+    },
+    {
+      "effective_from": "2015-04-01",
+      "products": {
+        "e10": 71.79,
+        "petrol": 74.29,
+        "hsd": 83.61
+      },
+      "change": {
+        "e10": 4.0,
+        "petrol": 4.0,
+        "hsd": 3.0
+      }
+    },
+    {
+      "effective_from": "2015-05-01",
+      "products": {
+        "e10": 71.79,
+        "petrol": 74.29,
+        "hsd": 83.61,
+        "jp1": 53.41
+      },
+      "change": {
+        "e10": 0.0,
+        "petrol": 0.0,
+        "hsd": 0.0
+      }
+    },
+    {
+      "effective_from": "2015-06-01",
+      "products": {
+        "e10": 75.29,
+        "petrol": 77.79,
+        "hsd": 87.12,
+        "jp1": 58.36
+      },
+      "change": {
+        "e10": 3.5,
+        "petrol": 3.5,
+        "hsd": 3.51,
+        "jp1": 4.95
+      }
+    },
+    {
+      "effective_from": "2015-07-01",
+      "products": {
+        "e10": 75.29,
+        "petrol": 77.79,
+        "hsd": 87.11,
+        "jp1": 55.81
+      },
+      "change": {
+        "e10": 0.0,
+        "petrol": 0.0,
+        "hsd": -0.01,
+        "jp1": -2.55
+      }
+    },
+    {
+      "effective_from": "2015-08-01",
+      "products": {
+        "e10": 75.29,
+        "petrol": 76.76,
+        "hsd": 85.05
+      },
+      "change": {
+        "e10": 0.0,
+        "petrol": -1.03,
+        "hsd": -2.06
+      }
+    },
+    {
+      "effective_from": "2015-09-01",
+      "products": {
+        "e10": 71.26,
+        "petrol": 73.76,
+        "hsd": 82.04
+      },
+      "change": {
+        "e10": -4.03,
+        "petrol": -3.0,
+        "hsd": -3.01
+      }
+    },
+    {
+      "effective_from": "2015-10-01",
+      "products": {
+        "e10": 71.26,
+        "petrol": 73.76,
+        "hsd": 82.04
+      },
+      "change": {
+        "e10": 0.0,
+        "petrol": 0.0,
+        "hsd": 0.0
+      }
+    },
+    {
+      "effective_from": "2015-11-01",
+      "products": {
+        "e10": 75.56,
+        "petrol": 76.26,
+        "hsd": 83.79
+      },
+      "change": {
+        "e10": 4.3,
+        "petrol": 2.5,
+        "hsd": 1.75
+      }
+    },
+    {
+      "effective_from": "2015-12-01",
+      "products": {
+        "e10": 73.76,
+        "petrol": 76.26,
+        "hsd": 83.79,
+        "jp1": 45.24
+      },
+      "change": {
+        "e10": -1.8,
+        "petrol": 0.0,
+        "hsd": 0.0
+      }
+    },
+    {
+      "effective_from": "2015-12-23",
+      "products": {
+        "petrol": 12.0,
+        "hsd": 12.0,
+        "ldo": 12.0,
+        "sko": 12.0,
+        "jp1": 12.0
+      },
+      "change": {
+        "petrol": -64.26,
+        "hsd": -71.79,
+        "jp1": -33.24
+      }
+    },
+    {
+      "effective_from": "2016-01-01",
+      "products": {
+        "e10": 73.75,
+        "petrol": 76.25,
+        "hsd": 80.79
+      },
+      "change": {
+        "petrol": 64.25,
+        "hsd": 68.79
+      }
+    },
+    {
+      "effective_from": "2016-02-01",
+      "products": {
+        "e10": 68.75,
+        "petrol": 71.25,
+        "hsd": 75.79
+      },
+      "change": {
+        "e10": -5.0,
+        "petrol": -5.0,
+        "hsd": -5.0
+      }
+    },
+    {
+      "effective_from": "2016-03-01",
+      "products": {
+        "e10": 60.27,
+        "petrol": 62.77,
+        "hsd": 71.12
+      },
+      "change": {
+        "e10": -8.48,
+        "petrol": -8.48,
+        "hsd": -4.67
+      }
+    },
+    {
+      "effective_from": "2016-04-01",
+      "products": {
+        "e10": 61.78,
+        "petrol": 64.27,
+        "hsd": 72.52
+      },
+      "change": {
+        "e10": 1.51,
+        "petrol": 1.5,
+        "hsd": 1.4
+      }
+    },
+    {
+      "effective_from": "2016-05-01",
+      "products": {
+        "e10": 61.78,
+        "petrol": 64.27,
+        "hsd": 72.52
+      },
+      "change": {
+        "e10": 0.0,
+        "petrol": 0.0,
+        "hsd": 0.0
+      }
+    },
+    {
+      "effective_from": "2016-05-02",
+      "products": {
+        "petrol": 2222.0,
+        "hsd": 22.0,
+        "ldo": 22.0,
+        "sko": 22.0,
+        "jp1": 22.0
+      },
+      "change": {
+        "petrol": 2157.73,
+        "hsd": -50.52
+      }
+    },
+    {
+      "effective_from": "2016-06-01",
+      "products": {
+        "e10": 61.78,
+        "petrol": 64.27,
+        "hsd": 72.52
+      },
+      "change": {
+        "petrol": -2157.73,
+        "hsd": 50.52
+      }
+    },
+    {
+      "effective_from": "2016-07-01",
+      "products": {
+        "e10": 61.78,
+        "petrol": 64.27,
+        "hsd": 72.52
+      },
+      "change": {
+        "e10": 0.0,
+        "petrol": 0.0,
+        "hsd": 0.0
+      }
+    },
+    {
+      "effective_from": "2016-08-01",
+      "products": {
+        "e10": 61.78,
+        "petrol": 64.27,
+        "hsd": 72.52
+      },
+      "change": {
+        "e10": 0.0,
+        "petrol": 0.0,
+        "hsd": 0.0
+      }
+    },
+    {
+      "effective_from": "2016-09-01",
+      "products": {
+        "e10": 61.78,
+        "petrol": 64.27,
+        "hsd": 72.52
+      },
+      "change": {
+        "e10": 0.0,
+        "petrol": 0.0,
+        "hsd": 0.0
+      }
+    },
+    {
+      "effective_from": "2016-10-01",
+      "products": {
+        "petrol": 64.27,
+        "hsd": 72.52
+      },
+      "change": {
+        "petrol": 0.0,
+        "hsd": 0.0
+      }
+    },
+    {
+      "effective_from": "2016-11-01",
+      "products": {
+        "e10": 61.78,
+        "petrol": 64.27,
+        "hsd": 72.52
+      },
+      "change": {
+        "petrol": 0.0,
+        "hsd": 0.0
+      }
+    },
+    {
+      "effective_from": "2016-12-01",
+      "products": {
+        "e10": 63.77,
+        "petrol": 66.27,
+        "hsd": 75.22
+      },
+      "change": {
+        "e10": 1.99,
+        "petrol": 2.0,
+        "hsd": 2.7
+      }
+    },
+    {
+      "effective_from": "2017-01-01",
+      "products": {
+        "e10": 63.77,
+        "petrol": 66.27,
+        "hsd": 75.22
+      },
+      "change": {
+        "e10": 0.0,
+        "petrol": 0.0,
+        "hsd": 0.0
+      }
+    },
+    {
+      "effective_from": "2017-01-16",
+      "products": {
+        "e10": 65.54,
+        "petrol": 68.04,
+        "hsd": 77.22
+      },
+      "change": {
+        "e10": 1.77,
+        "petrol": 1.77,
+        "hsd": 2.0
+      }
+    },
+    {
+      "effective_from": "2017-02-01",
+      "products": {
+        "e10": 67.79,
+        "petrol": 70.29,
+        "hsd": 79.48
+      },
+      "change": {
+        "e10": 2.25,
+        "petrol": 2.25,
+        "hsd": 2.26
+      }
+    },
+    {
+      "effective_from": "2017-02-16",
+      "products": {
+        "e10": 68.8,
+        "petrol": 71.29,
+        "hsd": 80.48
+      },
+      "change": {
+        "e10": 1.01,
+        "petrol": 1.0,
+        "hsd": 1.0
+      }
+    },
+    {
+      "effective_from": "2017-03-01",
+      "products": {
+        "e10": 70.5,
+        "petrol": 73.0,
+        "hsd": 82.0
+      },
+      "change": {
+        "e10": 1.7,
+        "petrol": 1.71,
+        "hsd": 1.52
+      }
+    },
+    {
+      "effective_from": "2017-04-01",
+      "products": {
+        "e10": 71.5,
+        "petrol": 74.0,
+        "hsd": 83.0
+      },
+      "change": {
+        "e10": 1.0,
+        "petrol": 1.0,
+        "hsd": 1.0
+      }
+    },
+    {
+      "effective_from": "2017-05-01",
+      "products": {
+        "e10": 71.5,
+        "petrol": 74.0,
+        "hsd": 83.0
+      },
+      "change": {
+        "e10": 0.0,
+        "petrol": 0.0,
+        "hsd": 0.0
+      }
+    },
+    {
+      "effective_from": "2017-06-01",
+      "products": {
+        "e10": 70.31,
+        "petrol": 72.8,
+        "hsd": 81.4
+      },
+      "change": {
+        "e10": -1.19,
+        "petrol": -1.2,
+        "hsd": -1.6
+      }
+    },
+    {
+      "effective_from": "2017-07-01",
+      "products": {
+        "e10": 68.8,
+        "petrol": 71.3,
+        "hsd": 79.9
+      },
+      "change": {
+        "e10": -1.51,
+        "petrol": -1.5,
+        "hsd": -1.5
+      }
+    },
+    {
+      "effective_from": "2017-08-01",
+      "products": {
+        "e10": 68.8,
+        "petrol": 71.3,
+        "hsd": 79.9
+      },
+      "change": {
+        "e10": 0.0,
+        "petrol": 0.0,
+        "hsd": 0.0
+      }
+    },
+    {
+      "effective_from": "2017-08-06",
+      "products": {
+        "e10": 67.01,
+        "petrol": 69.5,
+        "hsd": 77.4
+      },
+      "change": {
+        "e10": -1.79,
+        "petrol": -1.8,
+        "hsd": -2.5
+      }
+    },
+    {
+      "effective_from": "2017-09-01",
+      "products": {
+        "e10": 69.01,
+        "petrol": 71.5,
+        "hsd": 77.4
+      },
+      "change": {
+        "e10": 2.0,
+        "petrol": 2.0,
+        "hsd": 0.0
+      }
+    },
+    {
+      "effective_from": "2017-10-01",
+      "products": {
+        "e10": 71.0,
+        "petrol": 73.5,
+        "hsd": 79.4
+      },
+      "change": {
+        "e10": 1.99,
+        "petrol": 2.0,
+        "hsd": 2.0
+      }
+    },
+    {
+      "effective_from": "2017-11-01",
+      "products": {
+        "e10": 73.49,
+        "petrol": 75.99,
+        "hsd": 84.59
+      },
+      "change": {
+        "e10": 2.49,
+        "petrol": 2.49,
+        "hsd": 5.19
+      }
+    },
+    {
+      "effective_from": "2017-12-01",
+      "products": {
+        "e10": 74.97,
+        "petrol": 77.47,
+        "hsd": 85.95
+      },
+      "change": {
+        "e10": 1.48,
+        "petrol": 1.48,
+        "hsd": 1.36
+      }
+    },
+    {
+      "effective_from": "2018-01-01",
+      "products": {
+        "petrol": 81.53,
+        "hsd": 89.91
+      },
+      "change": {
+        "petrol": 4.06,
+        "hsd": 3.96
+      }
+    },
+    {
+      "effective_from": "2018-02-01",
+      "products": {
+        "e10": 82.01,
+        "petrol": 84.51,
+        "hsd": 95.83
+      },
+      "change": {
+        "petrol": 2.98,
+        "hsd": 5.92
+      }
+    },
+    {
+      "effective_from": "2018-03-01",
+      "products": {
+        "e10": 85.57,
+        "petrol": 88.07,
+        "hsd": 98.45
+      },
+      "change": {
+        "e10": 3.56,
+        "petrol": 3.56,
+        "hsd": 2.62
+      }
+    },
+    {
+      "effective_from": "2018-04-01",
+      "products": {
+        "e10": 83.5,
+        "petrol": 86.0,
+        "hsd": 96.45,
+        "jp1": 65.58
+      },
+      "change": {
+        "e10": -2.07,
+        "petrol": -2.07,
+        "hsd": -2.0
+      }
+    },
+    {
+      "effective_from": "2018-05-01",
+      "products": {
+        "e10": 85.2,
+        "petrol": 87.7,
+        "hsd": 98.76
+      },
+      "change": {
+        "e10": 1.7,
+        "petrol": 1.7,
+        "hsd": 2.31
+      }
+    },
+    {
+      "effective_from": "2018-06-01",
+      "products": {
+        "e10": 85.2,
+        "petrol": 87.7,
+        "hsd": 98.76
+      },
+      "change": {
+        "e10": 0.0,
+        "petrol": 0.0,
+        "hsd": 0.0
+      }
+    },
+    {
+      "effective_from": "2018-06-12",
+      "products": {
+        "e10": 89.46,
+        "petrol": 91.96,
+        "hsd": 105.31
+      },
+      "change": {
+        "e10": 4.26,
+        "petrol": 4.26,
+        "hsd": 6.55
+      }
+    },
+    {
+      "effective_from": "2018-07-01",
+      "products": {
+        "e10": 97.0,
+        "petrol": 99.5,
+        "hsd": 119.31
+      },
+      "change": {
+        "e10": 7.54,
+        "petrol": 7.54,
+        "hsd": 14.0
+      }
+    },
+    {
+      "effective_from": "2018-07-08",
+      "products": {
+        "e10": 92.73,
+        "petrol": 95.24,
+        "hsd": 112.94
+      },
+      "change": {
+        "e10": -4.27,
+        "petrol": -4.26,
+        "hsd": -6.37
+      }
+    },
+    {
+      "effective_from": "2018-08-01",
+      "products": {
+        "e10": 92.75,
+        "petrol": 95.24,
+        "hsd": 112.94
+      },
+      "change": {
+        "e10": 0.02,
+        "petrol": 0.0,
+        "hsd": 0.0
+      }
+    },
+    {
+      "effective_from": "2018-09-01",
+      "products": {
+        "petrol": 92.83,
+        "hsd": 106.57
+      },
+      "change": {
+        "petrol": -2.41,
+        "hsd": -6.37
+      }
+    },
+    {
+      "effective_from": "2018-10-01",
+      "products": {
+        "e10": 90.34,
+        "petrol": 92.83,
+        "hsd": 106.57
+      },
+      "change": {
+        "petrol": 0.0,
+        "hsd": 0.0
+      }
+    },
+    {
+      "effective_from": "2018-11-01",
+      "products": {
+        "e10": 98.44,
+        "petrol": 97.83,
+        "hsd": 112.94
+      },
+      "change": {
+        "e10": 8.1,
+        "petrol": 5.0,
+        "hsd": 6.37
+      }
+    },
+    {
+      "effective_from": "2018-12-01",
+      "products": {
+        "e10": 93.33,
+        "petrol": 95.83,
+        "hsd": 110.94,
+        "jp1": 72.15
+      },
+      "change": {
+        "e10": -5.11,
+        "petrol": -2.0,
+        "hsd": -2.0
+      }
+    },
+    {
+      "effective_from": "2019-01-01",
+      "products": {
+        "e10": 88.48,
+        "petrol": 90.97,
+        "hsd": 106.68
+      },
+      "change": {
+        "e10": -4.85,
+        "petrol": -4.86,
+        "hsd": -4.26
+      }
+    },
+    {
+      "effective_from": "2019-02-01",
+      "products": {
+        "e10": 87.88,
+        "petrol": 90.38,
+        "hsd": 106.68,
+        "jp1": 61.59
+      },
+      "change": {
+        "e10": -0.6,
+        "petrol": -0.59,
+        "hsd": 0.0
+      }
+    },
+    {
+      "effective_from": "2019-03-01",
+      "products": {
+        "e10": 90.39,
+        "petrol": 92.89,
+        "hsd": 111.43
+      },
+      "change": {
+        "e10": 2.51,
+        "petrol": 2.51,
+        "hsd": 4.75
+      }
+    },
+    {
+      "effective_from": "2019-04-01",
+      "products": {
+        "e10": 96.38,
+        "petrol": 98.89,
+        "hsd": 117.43
+      },
+      "change": {
+        "e10": 5.99,
+        "petrol": 6.0,
+        "hsd": 6.0
+      }
+    },
+    {
+      "effective_from": "2019-05-01",
+      "products": {
+        "e10": 96.38,
+        "petrol": 98.89,
+        "hsd": 117.43,
+        "jp1": 73.29
+      },
+      "change": {
+        "e10": 0.0,
+        "petrol": 0.0,
+        "hsd": 0.0
+      }
+    },
+    {
+      "effective_from": "2019-05-05",
+      "products": {
+        "petrol": 108.42,
+        "hsd": 122.32
+      },
+      "change": {
+        "petrol": 9.53,
+        "hsd": 4.89
+      }
+    },
+    {
+      "effective_from": "2019-06-01",
+      "products": {
+        "e10": 110.18,
+        "petrol": 112.68,
+        "hsd": 126.82
+      },
+      "change": {
+        "petrol": 4.26,
+        "hsd": 4.5
+      }
+    },
+    {
+      "effective_from": "2019-07-01",
+      "products": {
+        "e10": 110.18,
+        "petrol": 112.68,
+        "hsd": 126.82
+      },
+      "change": {
+        "e10": 0.0,
+        "petrol": 0.0,
+        "hsd": 0.0
+      }
+    },
+    {
+      "effective_from": "2019-08-01",
+      "products": {
+        "e10": 115.33,
+        "petrol": 117.83,
+        "hsd": 132.47
+      },
+      "change": {
+        "e10": 5.15,
+        "petrol": 5.15,
+        "hsd": 5.65
+      }
+    },
+    {
+      "effective_from": "2019-09-01",
+      "products": {
+        "e10": 110.74,
+        "petrol": 113.24,
+        "hsd": 127.14
+      },
+      "change": {
+        "e10": -4.59,
+        "petrol": -4.59,
+        "hsd": -5.33
+      }
+    },
+    {
+      "effective_from": "2019-10-01",
+      "products": {
+        "e10": 110.74,
+        "petrol": 113.24,
+        "hsd": 127.14
+      },
+      "change": {
+        "e10": 0.0,
+        "petrol": 0.0,
+        "hsd": 0.0
+      }
+    },
+    {
+      "effective_from": "2019-11-01",
+      "products": {
+        "e10": 111.74,
+        "petrol": 114.24,
+        "hsd": 127.41
+      },
+      "change": {
+        "e10": 1.0,
+        "petrol": 1.0,
+        "hsd": 0.27
+      }
+    },
+    {
+      "effective_from": "2019-12-01",
+      "products": {
+        "e10": 111.49,
+        "petrol": 113.99,
+        "hsd": 125.01
+      },
+      "change": {
+        "e10": -0.25,
+        "petrol": -0.25,
+        "hsd": -2.4
+      }
+    },
+    {
+      "effective_from": "2020-01-01",
+      "products": {
+        "e10": 114.1,
+        "petrol": 116.6,
+        "hsd": 127.26
+      },
+      "change": {
+        "e10": 2.61,
+        "petrol": 2.61,
+        "hsd": 2.25
+      }
+    },
+    {
+      "effective_from": "2020-02-01",
+      "products": {
+        "e10": 114.1,
+        "petrol": 116.6,
+        "hsd": 127.26
+      },
+      "change": {
+        "e10": 0.0,
+        "petrol": 0.0,
+        "hsd": 0.0
+      }
+    },
+    {
+      "effective_from": "2020-03-01",
+      "products": {
+        "e10": 109.09,
+        "petrol": 111.59,
+        "hsd": 122.25
+      },
+      "change": {
+        "e10": -5.01,
+        "petrol": -5.01,
+        "hsd": -5.01
+      }
+    },
+    {
+      "effective_from": "2020-03-25",
+      "products": {
+        "e10": 94.08,
+        "petrol": 96.58,
+        "hsd": 107.25
+      },
+      "change": {
+        "e10": -15.01,
+        "petrol": -15.01,
+        "hsd": -15.0
+      }
+    },
+    {
+      "effective_from": "2020-05-01",
+      "products": {
+        "e10": 79.08,
+        "petrol": 81.58,
+        "hsd": 80.1
+      },
+      "change": {
+        "e10": -15.0,
+        "petrol": -15.0,
+        "hsd": -27.15
+      }
+    },
+    {
+      "effective_from": "2020-06-01",
+      "products": {
+        "e10": 72.03,
+        "petrol": 74.52,
+        "hsd": 80.15
+      },
+      "change": {
+        "e10": -7.05,
+        "petrol": -7.06,
+        "hsd": 0.05
+      }
+    },
+    {
+      "effective_from": "2020-06-26",
+      "products": {
+        "e10": 95.05,
+        "petrol": 100.11,
+        "hsd": 101.46
+      },
+      "change": {
+        "e10": 23.02,
+        "petrol": 25.59,
+        "hsd": 21.31
+      }
+    },
+    {
+      "effective_from": "2020-08-01",
+      "products": {
+        "e10": 101.47,
+        "petrol": 103.97,
+        "hsd": 106.46
+      },
+      "change": {
+        "e10": 6.42,
+        "petrol": 3.86,
+        "hsd": 5.0
+      }
+    },
+    {
+      "effective_from": "2020-09-01",
+      "products": {
+        "e10": 101.47,
+        "petrol": 103.97,
+        "hsd": 106.46,
+        "ldo": 62.86,
+        "sko": 65.29,
+        "jp1": 52.83
+      },
+      "change": {
+        "e10": 0.0,
+        "petrol": 0.0,
+        "hsd": 0.0
+      }
+    },
+    {
+      "effective_from": "2020-09-16",
+      "products": {
+        "e10": 101.47,
+        "petrol": 103.97,
+        "hsd": 106.46
+      },
+      "change": {
+        "e10": 0.0,
+        "petrol": 0.0,
+        "hsd": 0.0
+      }
+    },
+    {
+      "effective_from": "2020-10-01",
+      "products": {
+        "e10": 101.47,
+        "petrol": 103.97,
+        "hsd": 104.06
+      },
+      "change": {
+        "e10": 0.0,
+        "petrol": 0.0,
+        "hsd": -2.4
+      }
+    },
+    {
+      "effective_from": "2020-10-16",
+      "products": {
+        "e10": 101.47,
+        "petrol": 103.97,
+        "hsd": 104.06
+      },
+      "change": {
+        "e10": 0.0,
+        "petrol": 0.0,
+        "hsd": 0.0
+      }
+    },
+    {
+      "effective_from": "2020-11-01",
+      "products": {
+        "e10": 99.91,
+        "petrol": 102.4,
+        "hsd": 103.22
+      },
+      "change": {
+        "e10": -1.56,
+        "petrol": -1.57,
+        "hsd": -0.84
+      }
+    },
+    {
+      "effective_from": "2020-11-16",
+      "products": {
+        "e10": 98.19,
+        "petrol": 100.69,
+        "hsd": 101.43
+      },
+      "change": {
+        "e10": -1.72,
+        "petrol": -1.71,
+        "hsd": -1.79
+      }
+    },
+    {
+      "effective_from": "2020-12-01",
+      "products": {
+        "e10": 98.19,
+        "petrol": 100.69,
+        "hsd": 105.43
+      },
+      "change": {
+        "e10": 0.0,
+        "petrol": 0.0,
+        "hsd": 4.0
+      }
+    },
+    {
+      "effective_from": "2020-12-16",
+      "products": {
+        "e10": 101.19,
+        "petrol": 103.69,
+        "hsd": 108.44,
+        "ldo": 67.86
+      },
+      "change": {
+        "e10": 3.0,
+        "petrol": 3.0,
+        "hsd": 3.01
+      }
+    },
+    {
+      "effective_from": "2021-01-01",
+      "products": {
+        "e10": 103.5,
+        "petrol": 106.0,
+        "hsd": 110.24
+      },
+      "change": {
+        "e10": 2.31,
+        "petrol": 2.31,
+        "hsd": 1.8
+      }
+    },
+    {
+      "effective_from": "2021-01-16",
+      "products": {
+        "e10": 106.7,
+        "petrol": 109.2,
+        "hsd": 113.19,
+        "ldo": 78.23,
+        "sko": 76.65,
+        "jp1": 66.71
+      },
+      "change": {
+        "e10": 3.2,
+        "petrol": 3.2,
+        "hsd": 2.95
+      }
+    },
+    {
+      "effective_from": "2021-02-01",
+      "products": {
+        "e10": 109.4,
+        "petrol": 111.9,
+        "hsd": 116.08
+      },
+      "change": {
+        "e10": 2.7,
+        "petrol": 2.7,
+        "hsd": 2.89
+      }
+    },
+    {
+      "effective_from": "2021-02-16",
+      "products": {
+        "e10": 109.4,
+        "petrol": 111.9,
+        "hsd": 116.08
+      },
+      "change": {
+        "e10": 0.0,
+        "petrol": 0.0,
+        "hsd": 0.0
+      }
+    },
+    {
+      "effective_from": "2021-03-01",
+      "products": {
+        "e10": 109.4,
+        "petrol": 111.9,
+        "hsd": 116.08
+      },
+      "change": {
+        "e10": 0.0,
+        "petrol": 0.0,
+        "hsd": 0.0
+      }
+    },
+    {
+      "effective_from": "2021-03-16",
+      "products": {
+        "e10": 109.4,
+        "petrol": 111.9,
+        "hsd": 116.08
+      },
+      "change": {
+        "e10": 0.0,
+        "petrol": 0.0,
+        "hsd": 0.0
+      }
+    },
+    {
+      "effective_from": "2021-04-01",
+      "products": {
+        "e10": 107.85,
+        "petrol": 110.35,
+        "hsd": 113.08
+      },
+      "change": {
+        "e10": -1.55,
+        "petrol": -1.55,
+        "hsd": -3.0
+      }
+    },
+    {
+      "effective_from": "2021-04-16",
+      "products": {
+        "e10": 106.06,
+        "petrol": 108.56,
+        "hsd": 110.76
+      },
+      "change": {
+        "e10": -1.79,
+        "petrol": -1.79,
+        "hsd": -2.32
+      }
+    },
+    {
+      "effective_from": "2021-05-01",
+      "products": {
+        "e10": 106.06,
+        "petrol": 108.56,
+        "hsd": 110.76,
+        "ldo": 77.65,
+        "sko": 80.0,
+        "jp1": 77.35
+      },
+      "change": {
+        "e10": 0.0,
+        "petrol": 0.0,
+        "hsd": 0.0
+      }
+    },
+    {
+      "effective_from": "2021-05-18",
+      "products": {
+        "e10": 106.06,
+        "petrol": 108.56,
+        "hsd": 110.76,
+        "ldo": 77.65,
+        "sko": 80.0,
+        "jp1": 80.41
+      },
+      "change": {
+        "e10": 0.0,
+        "petrol": 0.0,
+        "hsd": 0.0,
+        "ldo": 0.0,
+        "sko": 0.0,
+        "jp1": 3.06
+      }
+    },
+    {
+      "effective_from": "2021-06-01",
+      "products": {
+        "e10": 106.06,
+        "petrol": 108.56,
+        "hsd": 110.76,
+        "sko": 80.0
+      },
+      "change": {
+        "e10": 0.0,
+        "petrol": 0.0,
+        "hsd": 0.0,
+        "sko": 0.0
+      }
+    },
+    {
+      "effective_from": "2021-06-16",
+      "products": {
+        "e10": 108.19,
+        "petrol": 110.69,
+        "hsd": 112.55,
+        "sko": 81.89
+      },
+      "change": {
+        "e10": 2.13,
+        "petrol": 2.13,
+        "hsd": 1.79,
+        "sko": 1.89
+      }
+    },
+    {
+      "effective_from": "2021-07-01",
+      "products": {
+        "e10": 113.61,
+        "petrol": 112.69,
+        "hsd": 113.99
+      },
+      "change": {
+        "e10": 5.42,
+        "petrol": 2.0,
+        "hsd": 1.44
+      }
+    },
+    {
+      "effective_from": "2021-07-16",
+      "products": {
+        "e10": 118.25,
+        "petrol": 118.09,
+        "hsd": 116.53,
+        "ldo": 84.67,
+        "sko": 87.14,
+        "jp1": 90.58
+      },
+      "change": {
+        "e10": 4.64,
+        "petrol": 5.4,
+        "hsd": 2.54
+      }
+    },
+    {
+      "effective_from": "2021-08-01",
+      "products": {
+        "e10": 119.33,
+        "petrol": 119.8,
+        "hsd": 116.53,
+        "ldo": 84.67,
+        "sko": 87.49,
+        "jp1": 90.59
+      },
+      "change": {
+        "e10": 1.08,
+        "petrol": 1.71,
+        "hsd": 0.0,
+        "ldo": 0.0,
+        "sko": 0.35,
+        "jp1": 0.01
+      }
+    },
+    {
+      "effective_from": "2021-08-16",
+      "products": {
+        "e10": 119.62,
+        "petrol": 119.8,
+        "hsd": 116.53,
+        "ldo": 85.77,
+        "sko": 88.3,
+        "jp1": 91.48
+      },
+      "change": {
+        "e10": 0.29,
+        "petrol": 0.0,
+        "hsd": 0.0,
+        "ldo": 1.1,
+        "sko": 0.81,
+        "jp1": 0.89
+      }
+    },
+    {
+      "effective_from": "2021-09-01",
+      "products": {
+        "e10": 116.49,
+        "petrol": 118.3,
+        "hsd": 115.03,
+        "ldo": 84.77,
+        "sko": 86.8,
+        "jp1": 87.43
+      },
+      "change": {
+        "e10": -3.13,
+        "petrol": -1.5,
+        "hsd": -1.5,
+        "ldo": -1.0,
+        "sko": -1.5,
+        "jp1": -4.05
+      }
+    },
+    {
+      "effective_from": "2021-09-16",
+      "products": {
+        "e10": 120.8,
+        "petrol": 123.3,
+        "hsd": 120.04,
+        "ldo": 90.69,
+        "sko": 92.26,
+        "jp1": 93.45
+      },
+      "change": {
+        "e10": 4.31,
+        "petrol": 5.0,
+        "hsd": 5.01,
+        "ldo": 5.92,
+        "sko": 5.46,
+        "jp1": 6.02
+      }
+    },
+    {
+      "effective_from": "2021-10-01",
+      "products": {
+        "e10": 125.32,
+        "petrol": 127.3,
+        "hsd": 122.04,
+        "ldo": 99.51,
+        "sko": 99.31,
+        "jp1": 100.63
+      },
+      "change": {
+        "e10": 4.52,
+        "petrol": 4.0,
+        "hsd": 2.0,
+        "ldo": 8.82,
+        "sko": 7.05,
+        "jp1": 7.18
+      }
+    },
+    {
+      "effective_from": "2021-10-16",
+      "products": {
+        "e10": 135.64,
+        "petrol": 137.79,
+        "hsd": 134.48,
+        "ldo": 108.35,
+        "sko": 110.26,
+        "jp1": 112.64
+      },
+      "change": {
+        "e10": 10.32,
+        "petrol": 10.49,
+        "hsd": 12.44,
+        "ldo": 8.84,
+        "sko": 10.95,
+        "jp1": 12.01
+      }
+    },
+    {
+      "effective_from": "2021-11-01",
+      "products": {
+        "e10": 135.45,
+        "petrol": 137.79,
+        "hsd": 134.48,
+        "ldo": 108.35,
+        "sko": 110.26,
+        "jp1": 120.71
+      },
+      "change": {
+        "e10": -0.19,
+        "petrol": 0.0,
+        "hsd": 0.0,
+        "ldo": 0.0,
+        "sko": 0.0,
+        "jp1": 8.07
+      }
+    },
+    {
+      "effective_from": "2021-11-05",
+      "products": {
+        "e10": 146.81,
+        "petrol": 145.82,
+        "hsd": 142.62,
+        "ldo": 114.07,
+        "sko": 116.53,
+        "jp1": 120.71
+      },
+      "change": {
+        "e10": 11.36,
+        "petrol": 8.03,
+        "hsd": 8.14,
+        "ldo": 5.72,
+        "sko": 6.27,
+        "jp1": 0.0
+      }
+    },
+    {
+      "effective_from": "2021-11-16",
+      "products": {
+        "e10": 149.01,
+        "petrol": 145.82,
+        "hsd": 142.62,
+        "ldo": 114.07,
+        "sko": 116.53,
+        "jp1": 117.05
+      },
+      "change": {
+        "e10": 2.2,
+        "petrol": 0.0,
+        "hsd": 0.0,
+        "ldo": 0.0,
+        "sko": 0.0,
+        "jp1": -3.66
+      }
+    },
+    {
+      "effective_from": "2021-12-01",
+      "products": {
+        "e10": 143.33,
+        "petrol": 145.82,
+        "hsd": 142.62,
+        "ldo": 114.07,
+        "sko": 116.53,
+        "jp1": 113.5
+      },
+      "change": {
+        "e10": -5.68,
+        "petrol": 0.0,
+        "hsd": 0.0,
+        "ldo": 0.0,
+        "sko": 0.0,
+        "jp1": -3.55
+      }
+    },
+    {
+      "effective_from": "2021-12-16",
+      "products": {
+        "e10": 138.32,
+        "petrol": 140.82,
+        "hsd": 137.62,
+        "ldo": 107.06,
+        "sko": 109.53,
+        "jp1": 105.83
+      },
+      "change": {
+        "e10": -5.01,
+        "petrol": -5.0,
+        "hsd": -5.0,
+        "ldo": -7.01,
+        "sko": -7.0,
+        "jp1": -7.67
+      }
+    },
+    {
+      "effective_from": "2022-01-01",
+      "products": {
+        "e10": 142.32,
+        "petrol": 144.82,
+        "hsd": 141.62,
+        "ldo": 111.21,
+        "sko": 113.48,
+        "jp1": 110.1
+      },
+      "change": {
+        "e10": 4.0,
+        "petrol": 4.0,
+        "hsd": 4.0,
+        "ldo": 4.15,
+        "sko": 3.95,
+        "jp1": 4.27
+      }
+    },
+    {
+      "effective_from": "2022-01-16",
+      "products": {
+        "e10": 145.33,
+        "petrol": 147.83,
+        "hsd": 144.62,
+        "ldo": 114.54,
+        "sko": 116.48,
+        "jp1": 108.96
+      },
+      "change": {
+        "e10": 3.01,
+        "petrol": 3.01,
+        "hsd": 3.0,
+        "ldo": 3.33,
+        "sko": 3.0,
+        "jp1": -1.14
+      }
+    },
+    {
+      "effective_from": "2022-02-01",
+      "products": {
+        "e10": 125.83,
+        "petrol": 147.83,
+        "hsd": 144.62,
+        "ldo": 114.54,
+        "sko": 116.48,
+        "jp1": 129.2
+      },
+      "change": {
+        "e10": -19.5,
+        "petrol": 0.0,
+        "hsd": 0.0,
+        "ldo": 0.0,
+        "sko": 0.0,
+        "jp1": 20.24
+      }
+    },
+    {
+      "effective_from": "2022-02-16",
+      "products": {
+        "e10": 134.49,
+        "petrol": 159.86,
+        "hsd": 154.15,
+        "ldo": 123.97,
+        "sko": 126.56,
+        "jp1": 140.65
+      },
+      "change": {
+        "e10": 8.66,
+        "petrol": 12.03,
+        "hsd": 9.53,
+        "ldo": 9.43,
+        "sko": 10.08,
+        "jp1": 11.45
+      }
+    },
+    {
+      "effective_from": "2022-03-01",
+      "products": {
+        "e10": 161.5,
+        "petrol": 149.86,
+        "hsd": 144.15,
+        "ldo": 118.31,
+        "sko": 125.56,
+        "jp1": 140.44
+      },
+      "change": {
+        "e10": 27.01,
+        "petrol": -10.0,
+        "hsd": -10.0,
+        "ldo": -5.66,
+        "sko": -1.0,
+        "jp1": -0.21
+      }
+    },
+    {
+      "effective_from": "2022-03-16",
+      "products": {
+        "e10": 188.16,
+        "petrol": 149.86,
+        "hsd": 144.15,
+        "ldo": 118.31,
+        "sko": 125.56,
+        "jp1": 171.25
+      },
+      "change": {
+        "e10": 26.66,
+        "petrol": 0.0,
+        "hsd": 0.0,
+        "ldo": 0.0,
+        "sko": 0.0,
+        "jp1": 30.81
+      }
+    },
+    {
+      "effective_from": "2022-04-01",
+      "products": {
+        "e10": 189.59,
+        "petrol": 149.86,
+        "hsd": 144.15,
+        "sko": 125.56
+      },
+      "change": {
+        "e10": 1.43,
+        "petrol": 0.0,
+        "hsd": 0.0,
+        "sko": 0.0
+      }
+    },
+    {
+      "effective_from": "2022-04-16",
+      "products": {
+        "e10": 186.66,
+        "petrol": 149.86,
+        "hsd": 144.15,
+        "sko": 125.56
+      },
+      "change": {
+        "e10": -2.93,
+        "petrol": 0.0,
+        "hsd": 0.0,
+        "sko": 0.0
+      }
+    },
+    {
+      "effective_from": "2022-05-01",
+      "products": {
+        "e10": 194.9,
+        "petrol": 149.86,
+        "hsd": 144.15,
+        "ldo": 118.31,
+        "sko": 125.56,
+        "jp1": 191.07
+      },
+      "change": {
+        "e10": 8.24,
+        "petrol": 0.0,
+        "hsd": 0.0,
+        "sko": 0.0
+      }
+    },
+    {
+      "effective_from": "2022-05-16",
+      "products": {
+        "e10": 213.23,
+        "petrol": 149.86,
+        "hsd": 144.15,
+        "sko": 125.56
+      },
+      "change": {
+        "e10": 18.33,
+        "petrol": 0.0,
+        "hsd": 0.0,
+        "sko": 0.0
+      }
+    },
+    {
+      "effective_from": "2022-05-27",
+      "products": {
+        "e10": 213.23,
+        "petrol": 179.86,
+        "hsd": 174.15,
+        "ldo": 148.31,
+        "sko": 155.56,
+        "jp1": 201.23
+      },
+      "change": {
+        "e10": 0.0,
+        "petrol": 30.0,
+        "hsd": 30.0,
+        "sko": 30.0
+      }
+    },
+    {
+      "effective_from": "2022-06-01",
+      "products": {
+        "e10": 236.46,
+        "petrol": 179.86,
+        "hsd": 174.15,
+        "sko": 155.56
+      },
+      "change": {
+        "e10": 23.23,
+        "petrol": 0.0,
+        "hsd": 0.0,
+        "sko": 0.0
+      }
+    },
+    {
+      "effective_from": "2022-06-03",
+      "products": {
+        "e10": 236.46,
+        "petrol": 209.86,
+        "hsd": 204.15,
+        "ldo": 178.31,
+        "sko": 181.94,
+        "jp1": 206.05
+      },
+      "change": {
+        "e10": 0.0,
+        "petrol": 30.0,
+        "hsd": 30.0,
+        "sko": 26.38
+      }
+    },
+    {
+      "effective_from": "2022-06-16",
+      "products": {
+        "e10": 251.51,
+        "petrol": 233.89,
+        "hsd": 263.31,
+        "sko": 211.43
+      },
+      "change": {
+        "e10": 15.05,
+        "petrol": 24.03,
+        "hsd": 59.16,
+        "sko": 29.49
+      }
+    },
+    {
+      "effective_from": "2022-07-01",
+      "products": {
+        "e10": 255.77,
+        "petrol": 248.74,
+        "hsd": 276.54,
+        "ldo": 226.15,
+        "sko": 230.26,
+        "jp1": 277.84
+      },
+      "change": {
+        "e10": 4.26,
+        "petrol": 14.85,
+        "hsd": 13.23,
+        "sko": 18.83
+      }
+    },
+    {
+      "effective_from": "2022-07-15",
+      "products": {
+        "e10": 236.12,
+        "petrol": 230.24,
+        "hsd": 236.0,
+        "ldo": 191.44,
+        "sko": 196.45,
+        "jp1": 216.08
+      },
+      "change": {
+        "e10": -19.65,
+        "petrol": -18.5,
+        "hsd": -40.54,
+        "ldo": -34.71,
+        "sko": -33.81,
+        "jp1": -61.76
+      }
+    },
+    {
+      "effective_from": "2022-08-01",
+      "products": {
+        "e10": 224.69,
+        "petrol": 227.19,
+        "hsd": 244.95,
+        "ldo": 191.32,
+        "sko": 201.07,
+        "jp1": 215.2
+      },
+      "change": {
+        "e10": -11.43,
+        "petrol": -3.05,
+        "hsd": 8.95,
+        "ldo": -0.12,
+        "sko": 4.62,
+        "jp1": -0.88
+      }
+    },
+    {
+      "effective_from": "2022-08-16",
+      "products": {
+        "e10": 231.41,
+        "petrol": 233.91,
+        "hsd": 244.44,
+        "sko": 199.4
+      },
+      "change": {
+        "e10": 6.72,
+        "petrol": 6.72,
+        "hsd": -0.51,
+        "sko": -1.67
+      }
+    },
+    {
+      "effective_from": "2022-09-01",
+      "products": {
+        "petrol": 235.98,
+        "hsd": 247.43,
+        "sko": 210.32
+      },
+      "change": {
+        "petrol": 2.07,
+        "hsd": 2.99,
+        "sko": 10.92
+      }
+    },
+    {
+      "effective_from": "2022-09-21",
+      "products": {
+        "petrol": 237.43,
+        "hsd": 247.43,
+        "ldo": 197.28,
+        "sko": 202.02,
+        "jp1": 215.95
+      },
+      "change": {
+        "petrol": 1.45,
+        "hsd": 0.0,
+        "sko": -8.3
+      }
+    },
+    {
+      "effective_from": "2022-10-01",
+      "products": {
+        "petrol": 224.8,
+        "hsd": 235.3,
+        "sko": 191.83
+      },
+      "change": {
+        "petrol": -12.63,
+        "hsd": -12.13,
+        "sko": -10.19
+      }
+    },
+    {
+      "effective_from": "2022-10-16",
+      "products": {
+        "petrol": 224.8,
+        "hsd": 235.3,
+        "sko": 191.83
+      },
+      "change": {
+        "petrol": 0.0,
+        "hsd": 0.0,
+        "sko": 0.0
+      }
+    },
+    {
+      "effective_from": "2022-11-01",
+      "products": {
+        "petrol": 224.8,
+        "hsd": 235.3,
+        "ldo": 186.5,
+        "sko": 191.83,
+        "jp1": 214.0
+      },
+      "change": {
+        "petrol": 0.0,
+        "hsd": 0.0,
+        "sko": 0.0
+      }
+    },
+    {
+      "effective_from": "2022-11-16",
+      "products": {
+        "petrol": 224.8,
+        "hsd": 235.3,
+        "ldo": 186.5,
+        "sko": 191.83,
+        "jp1": 209.79
+      },
+      "change": {
+        "petrol": 0.0,
+        "hsd": 0.0,
+        "ldo": 0.0,
+        "sko": 0.0,
+        "jp1": -4.21
+      }
+    },
+    {
+      "effective_from": "2022-12-01",
+      "products": {
+        "petrol": 224.8,
+        "hsd": 235.3,
+        "ldo": 179.0,
+        "sko": 181.83,
+        "jp1": 197.65
+      },
+      "change": {
+        "petrol": 0.0,
+        "hsd": 0.0,
+        "ldo": -7.5,
+        "sko": -10.0,
+        "jp1": -12.14
+      }
+    },
+    {
+      "effective_from": "2022-12-16",
+      "products": {
+        "petrol": 214.8,
+        "hsd": 227.8,
+        "ldo": 169.0,
+        "sko": 171.83,
+        "jp1": 196.5
+      },
+      "change": {
+        "petrol": -10.0,
+        "hsd": -7.5,
+        "ldo": -10.0,
+        "sko": -10.0,
+        "jp1": -1.15
+      }
+    },
+    {
+      "effective_from": "2023-01-01",
+      "products": {
+        "petrol": 214.8,
+        "hsd": 227.8,
+        "ldo": 169.0,
+        "sko": 171.83,
+        "jp1": 189.11
+      },
+      "change": {
+        "petrol": 0.0,
+        "hsd": 0.0,
+        "ldo": 0.0,
+        "sko": 0.0,
+        "jp1": -7.39
+      }
+    },
+    {
+      "effective_from": "2023-01-16",
+      "products": {
+        "petrol": 214.8,
+        "hsd": 227.8,
+        "sko": 171.83
+      },
+      "change": {
+        "petrol": 0.0,
+        "hsd": 0.0,
+        "sko": 0.0
+      }
+    },
+    {
+      "effective_from": "2023-01-29",
+      "products": {
+        "petrol": 249.8,
+        "hsd": 262.8,
+        "ldo": 187.0,
+        "sko": 189.83,
+        "jp1": 213.84
+      },
+      "change": {
+        "petrol": 35.0,
+        "hsd": 35.0,
+        "sko": 18.0
+      }
+    },
+    {
+      "effective_from": "2023-02-16",
+      "products": {
+        "petrol": 272.0,
+        "hsd": 280.0,
+        "ldo": 196.68,
+        "sko": 202.73,
+        "jp1": 255.34
+      },
+      "change": {
+        "petrol": 22.2,
+        "hsd": 17.2,
+        "ldo": 9.68,
+        "sko": 12.9,
+        "jp1": 41.5
+      }
+    },
+    {
+      "effective_from": "2023-03-01",
+      "products": {
+        "petrol": 267.0,
+        "hsd": 280.0,
+        "ldo": 184.68,
+        "sko": 187.73,
+        "jp1": 203.8
+      },
+      "change": {
+        "petrol": -5.0,
+        "hsd": 0.0,
+        "ldo": -12.0,
+        "sko": -15.0,
+        "jp1": -51.54
+      }
+    },
+    {
+      "effective_from": "2023-03-16",
+      "products": {
+        "petrol": 272.0,
+        "hsd": 293.0,
+        "ldo": 184.68,
+        "sko": 190.29,
+        "jp1": 231.56
+      },
+      "change": {
+        "petrol": 5.0,
+        "hsd": 13.0,
+        "ldo": 0.0,
+        "sko": 2.56,
+        "jp1": 27.76
+      }
+    },
+    {
+      "effective_from": "2023-04-01",
+      "products": {
+        "petrol": 272.0,
+        "hsd": 293.0,
+        "ldo": 174.68,
+        "sko": 180.29,
+        "jp1": 230.83
+      },
+      "change": {
+        "petrol": 0.0,
+        "hsd": 0.0,
+        "ldo": -10.0,
+        "sko": -10.0,
+        "jp1": -0.73
+      }
+    },
+    {
+      "effective_from": "2023-04-16",
+      "products": {
+        "petrol": 282.0,
+        "hsd": 293.0,
+        "ldo": 174.68,
+        "sko": 186.07,
+        "jp1": 219.27
+      },
+      "change": {
+        "petrol": 10.0,
+        "hsd": 0.0,
+        "ldo": 0.0,
+        "sko": 5.78,
+        "jp1": -11.56
+      }
+    },
+    {
+      "effective_from": "2023-05-01",
+      "products": {
+        "petrol": 282.0,
+        "hsd": 288.0,
+        "ldo": 164.68,
+        "sko": 176.07,
+        "jp1": 216.24
+      },
+      "change": {
+        "petrol": 0.0,
+        "hsd": -5.0,
+        "ldo": -10.0,
+        "sko": -10.0,
+        "jp1": -3.03
+      }
+    },
+    {
+      "effective_from": "2023-05-16",
+      "products": {
+        "petrol": 270.0,
+        "hsd": 258.0,
+        "ldo": 152.68,
+        "sko": 164.07,
+        "jp1": 203.86
+      },
+      "change": {
+        "petrol": -12.0,
+        "hsd": -30.0,
+        "ldo": -12.0,
+        "sko": -12.0,
+        "jp1": -12.38
+      }
+    },
+    {
+      "effective_from": "2023-06-01",
+      "products": {
+        "petrol": 262.0,
+        "hsd": 253.0,
+        "ldo": 147.68,
+        "sko": 164.07,
+        "jp1": 207.64
+      },
+      "change": {
+        "petrol": -8.0,
+        "hsd": -5.0,
+        "ldo": -5.0,
+        "sko": 0.0,
+        "jp1": 3.78
+      }
+    },
+    {
+      "effective_from": "2023-06-16",
+      "products": {
+        "petrol": 262.0,
+        "hsd": 253.0,
+        "ldo": 150.2,
+        "sko": 164.07,
+        "jp1": 186.66
+      },
+      "change": {
+        "petrol": 0.0,
+        "hsd": 0.0,
+        "ldo": 2.52,
+        "sko": 0.0,
+        "jp1": -20.98
+      }
+    },
+    {
+      "effective_from": "2023-07-01",
+      "products": {
+        "petrol": 262.0,
+        "hsd": 260.5,
+        "ldo": 154.22,
+        "sko": 171.05,
+        "jp1": 214.01
+      },
+      "change": {
+        "petrol": 0.0,
+        "hsd": 7.5,
+        "ldo": 4.02,
+        "sko": 6.98,
+        "jp1": 27.35
+      }
+    },
+    {
+      "effective_from": "2023-07-16",
+      "products": {
+        "petrol": 253.0,
+        "hsd": 253.5,
+        "ldo": 156.45,
+        "sko": 172.39,
+        "jp1": 194.05
+      },
+      "change": {
+        "petrol": -9.0,
+        "hsd": -7.0,
+        "ldo": 2.23,
+        "sko": 1.34,
+        "jp1": -19.96
+      }
+    },
+    {
+      "effective_from": "2023-08-01",
+      "products": {
+        "petrol": 272.95,
+        "hsd": 273.4,
+        "sko": 192.38
+      },
+      "change": {
+        "petrol": 19.95,
+        "hsd": 19.9,
+        "sko": 19.99
+      }
+    },
+    {
+      "effective_from": "2023-08-16",
+      "products": {
+        "petrol": 290.45,
+        "hsd": 293.4,
+        "ldo": 199.79,
+        "sko": 217.15,
+        "jp1": 249.58
+      },
+      "change": {
+        "petrol": 17.5,
+        "hsd": 20.0,
+        "sko": 24.77
+      }
+    },
+    {
+      "effective_from": "2023-09-01",
+      "products": {
+        "petrol": 305.36,
+        "hsd": 311.84,
+        "ldo": 210.13,
+        "sko": 233.52,
+        "jp1": 264.3
+      },
+      "change": {
+        "petrol": 14.91,
+        "hsd": 18.44,
+        "ldo": 10.34,
+        "sko": 16.37,
+        "jp1": 14.72
+      }
+    },
+    {
+      "effective_from": "2023-09-16",
+      "products": {
+        "petrol": 331.38,
+        "hsd": 329.18,
+        "ldo": 220.22,
+        "sko": 244.81,
+        "jp1": 277.51
+      },
+      "change": {
+        "petrol": 26.02,
+        "hsd": 17.34,
+        "ldo": 10.09,
+        "sko": 11.29,
+        "jp1": 13.21
+      }
+    },
+    {
+      "effective_from": "2023-10-01",
+      "products": {
+        "petrol": 323.38,
+        "hsd": 318.18,
+        "ldo": 212.45,
+        "sko": 237.28,
+        "jp1": 264.92
+      },
+      "change": {
+        "petrol": -8.0,
+        "hsd": -11.0,
+        "ldo": -7.77,
+        "sko": -7.53,
+        "jp1": -12.59
+      }
+    },
+    {
+      "effective_from": "2023-10-16",
+      "products": {
+        "petrol": 283.38,
+        "hsd": 303.18,
+        "ldo": 192.86,
+        "sko": 214.85,
+        "jp1": 241.91
+      },
+      "change": {
+        "petrol": -40.0,
+        "hsd": -15.0,
+        "ldo": -19.59,
+        "sko": -22.43,
+        "jp1": -23.01
+      }
+    },
+    {
+      "effective_from": "2023-11-01",
+      "products": {
+        "petrol": 283.38,
+        "hsd": 303.18,
+        "ldo": 189.46,
+        "sko": 211.03,
+        "jp1": 237.51
+      },
+      "change": {
+        "petrol": 0.0,
+        "hsd": 0.0,
+        "ldo": -3.4,
+        "sko": -3.82,
+        "jp1": -4.4
+      }
+    },
+    {
+      "effective_from": "2023-11-16",
+      "products": {
+        "petrol": 281.34,
+        "hsd": 296.71,
+        "ldo": 180.45,
+        "sko": 204.98,
+        "jp1": 238.7
+      },
+      "change": {
+        "petrol": -2.04,
+        "hsd": -6.47,
+        "ldo": -9.01,
+        "sko": -6.05,
+        "jp1": 1.19
+      }
+    },
+    {
+      "effective_from": "2023-12-01",
+      "products": {
+        "petrol": 281.34,
+        "hsd": 289.71,
+        "ldo": 175.93,
+        "sko": 201.16,
+        "jp1": 224.73
+      },
+      "change": {
+        "petrol": 0.0,
+        "hsd": -7.0,
+        "ldo": -4.52,
+        "sko": -3.82,
+        "jp1": -13.97
+      }
+    },
+    {
+      "effective_from": "2023-12-16",
+      "products": {
+        "petrol": 267.34,
+        "hsd": 276.21,
+        "ldo": 164.64,
+        "sko": 191.02,
+        "jp1": 215.98
+      },
+      "change": {
+        "petrol": -14.0,
+        "hsd": -13.5,
+        "ldo": -11.29,
+        "sko": -10.14,
+        "jp1": -8.75
+      }
+    },
+    {
+      "effective_from": "2024-01-01",
+      "products": {
+        "petrol": 267.34,
+        "hsd": 276.21,
+        "ldo": 165.75,
+        "sko": 188.83
+      },
+      "change": {
+        "petrol": 0.0,
+        "hsd": 0.0,
+        "ldo": 1.11,
+        "sko": -2.19
+      }
+    },
+    {
+      "effective_from": "2024-01-16",
+      "products": {
+        "petrol": 259.34,
+        "hsd": 276.21,
+        "ldo": 164.83,
+        "sko": 186.86
+      },
+      "change": {
+        "petrol": -8.0,
+        "hsd": 0.0,
+        "ldo": -0.92,
+        "sko": -1.97
+      }
+    },
+    {
+      "effective_from": "2024-02-01",
+      "products": {
+        "petrol": 272.89,
+        "hsd": 278.96,
+        "ldo": 166.86,
+        "sko": 186.62,
+        "jp1": 216.09
+      },
+      "change": {
+        "petrol": 13.55,
+        "hsd": 2.75,
+        "ldo": 2.03,
+        "sko": -0.24
+      }
+    },
+    {
+      "effective_from": "2024-02-16",
+      "products": {
+        "petrol": 275.62,
+        "hsd": 287.33,
+        "ldo": 171.44,
+        "sko": 188.57,
+        "jp1": 211.62
+      },
+      "change": {
+        "petrol": 2.73,
+        "hsd": 8.37,
+        "ldo": 4.58,
+        "sko": 1.95,
+        "jp1": -4.47
+      }
+    },
+    {
+      "effective_from": "2024-03-01",
+      "products": {
+        "petrol": 279.75,
+        "hsd": 287.33,
+        "ldo": 170.3,
+        "sko": 190.01,
+        "jp1": 223.7
+      },
+      "change": {
+        "petrol": 4.13,
+        "hsd": 0.0,
+        "ldo": -1.14,
+        "sko": 1.44,
+        "jp1": 12.08
+      }
+    },
+    {
+      "effective_from": "2024-03-16",
+      "products": {
+        "petrol": 279.75,
+        "hsd": 285.56,
+        "ldo": 168.18,
+        "sko": 188.66,
+        "jp1": 215.15
+      },
+      "change": {
+        "petrol": 0.0,
+        "hsd": -1.77,
+        "ldo": -2.12,
+        "sko": -1.35,
+        "jp1": -8.55
+      }
+    },
+    {
+      "effective_from": "2024-04-01",
+      "products": {
+        "petrol": 289.41,
+        "hsd": 282.24,
+        "ldo": 167.8,
+        "sko": 186.39,
+        "jp1": 215.15
+      },
+      "change": {
+        "petrol": 9.66,
+        "hsd": -3.32,
+        "ldo": -0.38,
+        "sko": -2.27,
+        "jp1": 0.0
+      }
+    },
+    {
+      "effective_from": "2024-04-16",
+      "products": {
+        "petrol": 293.94,
+        "hsd": 290.38,
+        "ldo": 174.34,
+        "sko": 193.08,
+        "jp1": 220.87
+      },
+      "change": {
+        "petrol": 4.53,
+        "hsd": 8.14,
+        "ldo": 6.54,
+        "sko": 6.69,
+        "jp1": 5.72
+      }
+    },
+    {
+      "effective_from": "2024-05-01",
+      "products": {
+        "petrol": 288.49,
+        "hsd": 281.96,
+        "ldo": 168.71,
+        "sko": 183.34,
+        "jp1": 222.23
+      },
+      "change": {
+        "petrol": -5.45,
+        "hsd": -8.42,
+        "ldo": -5.63,
+        "sko": -9.74,
+        "jp1": 1.36
+      }
+    },
+    {
+      "effective_from": "2024-05-16",
+      "products": {
+        "petrol": 273.1,
+        "hsd": 274.08,
+        "ldo": 161.17,
+        "sko": 173.48,
+        "jp1": 215.83
+      },
+      "change": {
+        "petrol": -15.39,
+        "hsd": -7.88,
+        "ldo": -7.54,
+        "sko": -9.86,
+        "jp1": -6.4
+      }
+    },
+    {
+      "effective_from": "2024-06-01",
+      "products": {
+        "petrol": 268.36,
+        "hsd": 270.22,
+        "ldo": 157.29,
+        "sko": 171.61,
+        "jp1": 198.98
+      },
+      "change": {
+        "petrol": -4.74,
+        "hsd": -3.86,
+        "ldo": -3.88,
+        "sko": -1.87,
+        "jp1": -16.85
+      }
+    },
+    {
+      "effective_from": "2024-06-15",
+      "products": {
+        "petrol": 258.16,
+        "hsd": 267.89,
+        "ldo": 156.13,
+        "sko": 171.81,
+        "jp1": 193.78
+      },
+      "change": {
+        "petrol": -10.2,
+        "hsd": -2.33,
+        "ldo": -1.16,
+        "sko": 0.2,
+        "jp1": -5.2
+      }
+    },
+    {
+      "effective_from": "2024-07-01",
+      "products": {
+        "petrol": 265.61,
+        "hsd": 277.45,
+        "ldo": 166.01,
+        "sko": 181.86,
+        "jp1": 213.27
+      },
+      "change": {
+        "petrol": 7.45,
+        "hsd": 9.56,
+        "ldo": 9.88,
+        "sko": 10.05,
+        "jp1": 19.49
+      }
+    },
+    {
+      "effective_from": "2024-07-16",
+      "products": {
+        "petrol": 275.6,
+        "hsd": 283.63,
+        "ldo": 166.25,
+        "sko": 183.71,
+        "jp1": 206.24
+      },
+      "change": {
+        "petrol": 9.99,
+        "hsd": 6.18,
+        "ldo": 0.24,
+        "sko": 1.85,
+        "jp1": -7.03
+      }
+    },
+    {
+      "effective_from": "2024-08-01",
+      "products": {
+        "petrol": 269.43,
+        "hsd": 272.77,
+        "ldo": 160.53,
+        "sko": 177.39,
+        "jp1": 202.26
+      },
+      "change": {
+        "petrol": -6.17,
+        "hsd": -10.86,
+        "ldo": -5.72,
+        "sko": -6.32,
+        "jp1": -3.98
+      }
+    },
+    {
+      "effective_from": "2024-08-14",
+      "products": {
+        "petrol": 260.96,
+        "hsd": 266.07,
+        "ldo": 157.02,
+        "sko": 171.77,
+        "jp1": 192.2
+      },
+      "change": {
+        "petrol": -8.47,
+        "hsd": -6.7,
+        "ldo": -3.51,
+        "sko": -5.62,
+        "jp1": -10.06
+      }
+    },
+    {
+      "effective_from": "2024-09-01",
+      "products": {
+        "petrol": 259.1,
+        "hsd": 262.75,
+        "ldo": 154.05,
+        "sko": 169.62,
+        "jp1": 193.98
+      },
+      "change": {
+        "petrol": -1.86,
+        "hsd": -3.32,
+        "ldo": -2.97,
+        "sko": -2.15,
+        "jp1": 1.78
+      }
+    },
+    {
+      "effective_from": "2024-09-16",
+      "products": {
+        "petrol": 249.1,
+        "hsd": 249.69,
+        "ldo": 141.93,
+        "sko": 158.47,
+        "jp1": 176.55
+      },
+      "change": {
+        "petrol": -10.0,
+        "hsd": -13.06,
+        "ldo": -12.12,
+        "sko": -11.15,
+        "jp1": -17.43
+      }
+    },
+    {
+      "effective_from": "2024-10-01",
+      "products": {
+        "petrol": 247.03,
+        "hsd": 246.29,
+        "ldo": 140.9,
+        "sko": 154.9,
+        "jp1": 176.72
+      },
+      "change": {
+        "petrol": -2.07,
+        "hsd": -3.4,
+        "ldo": -1.03,
+        "sko": -3.57,
+        "jp1": 0.17
+      }
+    },
+    {
+      "effective_from": "2024-10-16",
+      "products": {
+        "petrol": 247.03,
+        "hsd": 251.29,
+        "ldo": 150.12,
+        "sko": 163.02,
+        "jp1": 174.91
+      },
+      "change": {
+        "petrol": 0.0,
+        "hsd": 5.0,
+        "ldo": 9.22,
+        "sko": 8.12,
+        "jp1": -1.81
+      }
+    },
+    {
+      "effective_from": "2024-11-01",
+      "products": {
+        "petrol": 248.38,
+        "hsd": 255.14,
+        "ldo": 147.51,
+        "sko": 161.54,
+        "jp1": 185.22
+      },
+      "change": {
+        "petrol": 1.35,
+        "hsd": 3.85,
+        "ldo": -2.61,
+        "sko": -1.48,
+        "jp1": 10.31
+      }
+    },
+    {
+      "effective_from": "2024-11-16",
+      "products": {
+        "petrol": 248.38,
+        "hsd": 255.14,
+        "ldo": 152.21,
+        "sko": 165.6,
+        "jp1": 188.21
+      },
+      "change": {
+        "petrol": 0.0,
+        "hsd": 0.0,
+        "ldo": 4.7,
+        "sko": 4.06,
+        "jp1": 2.99
+      }
+    },
+    {
+      "effective_from": "2024-12-01",
+      "products": {
+        "petrol": 252.1,
+        "hsd": 258.43,
+        "ldo": 151.73,
+        "sko": 164.98,
+        "jp1": 189.92
+      },
+      "change": {
+        "petrol": 3.72,
+        "hsd": 3.29,
+        "ldo": -0.48,
+        "sko": -0.62,
+        "jp1": 1.71
+      }
+    },
+    {
+      "effective_from": "2024-12-16",
+      "products": {
+        "petrol": 252.1,
+        "hsd": 255.38,
+        "ldo": 151.73,
+        "sko": 164.98,
+        "jp1": 189.92
+      },
+      "change": {
+        "petrol": 0.0,
+        "hsd": -3.05,
+        "ldo": 0.0,
+        "sko": 0.0,
+        "jp1": 0.0
+      }
+    },
+    {
+      "effective_from": "2025-01-01",
+      "products": {
+        "petrol": 252.66,
+        "hsd": 258.34,
+        "ldo": 149.35,
+        "sko": 162.95,
+        "jp1": 187.09
+      },
+      "change": {
+        "petrol": 0.56,
+        "hsd": 2.96,
+        "ldo": -2.38,
+        "sko": -2.03,
+        "jp1": -2.83
+      }
+    },
+    {
+      "effective_from": "2025-01-16",
+      "products": {
+        "petrol": 256.13,
+        "hsd": 260.95,
+        "ldo": 156.53,
+        "sko": 169.25,
+        "jp1": 183.24
+      },
+      "change": {
+        "petrol": 3.47,
+        "hsd": 2.61,
+        "ldo": 7.18,
+        "sko": 6.3,
+        "jp1": -3.85
+      }
+    },
+    {
+      "effective_from": "2025-02-01",
+      "products": {
+        "petrol": 257.13,
+        "hsd": 267.95,
+        "ldo": 161.06,
+        "sko": 174.85,
+        "jp1": 194.72
+      },
+      "change": {
+        "petrol": 1.0,
+        "hsd": 7.0,
+        "ldo": 4.53,
+        "sko": 5.6,
+        "jp1": 11.48
+      }
+    },
+    {
+      "effective_from": "2025-02-16",
+      "products": {
+        "petrol": 256.13,
+        "hsd": 263.95,
+        "ldo": 155.81,
+        "sko": 171.65,
+        "jp1": 200.21
+      },
+      "change": {
+        "petrol": -1.0,
+        "hsd": -4.0,
+        "ldo": -5.25,
+        "sko": -3.2,
+        "jp1": 5.49
+      }
+    },
+    {
+      "effective_from": "2025-03-01",
+      "products": {
+        "petrol": 255.63,
+        "hsd": 258.64,
+        "ldo": 153.34,
+        "sko": 168.12,
+        "jp1": 193.96
+      },
+      "change": {
+        "petrol": -0.5,
+        "hsd": -5.31,
+        "ldo": -2.47,
+        "sko": -3.53,
+        "jp1": -6.25
+      }
+    },
+    {
+      "effective_from": "2025-03-16",
+      "products": {
+        "petrol": 255.63,
+        "hsd": 258.64,
+        "ldo": 153.34,
+        "sko": 168.12,
+        "jp1": 191.16
+      },
+      "change": {
+        "petrol": 0.0,
+        "hsd": 0.0,
+        "ldo": 0.0,
+        "sko": 0.0,
+        "jp1": -2.8
+      }
+    },
+    {
+      "effective_from": "2025-04-01",
+      "products": {
+        "petrol": 254.63,
+        "hsd": 258.64,
+        "ldo": 153.04,
+        "sko": 169.38,
+        "jp1": 176.06
+      },
+      "change": {
+        "petrol": -1.0,
+        "hsd": 0.0,
+        "ldo": -0.3,
+        "sko": 1.26,
+        "jp1": -15.1
+      }
+    },
+    {
+      "effective_from": "2025-04-16",
+      "products": {
+        "petrol": 254.63,
+        "hsd": 258.64,
+        "ldo": 153.04,
+        "sko": 169.38,
+        "jp1": 167.24
+      },
+      "change": {
+        "petrol": 0.0,
+        "hsd": 0.0,
+        "ldo": 0.0,
+        "sko": 0.0,
+        "jp1": -8.82
+      }
+    },
+    {
+      "effective_from": "2025-05-01",
+      "products": {
+        "petrol": 252.63,
+        "hsd": 256.64,
+        "ldo": 155.33,
+        "sko": 169.69,
+        "jp1": 170.0
+      },
+      "change": {
+        "petrol": -2.0,
+        "hsd": -2.0,
+        "ldo": 2.29,
+        "sko": 0.31,
+        "jp1": 2.76
+      }
+    },
+    {
+      "effective_from": "2025-05-16",
+      "products": {
+        "petrol": 252.63,
+        "hsd": 254.64,
+        "ldo": 150.65,
+        "sko": 164.65,
+        "jp1": 165.5
+      },
+      "change": {
+        "petrol": 0.0,
+        "hsd": -2.0,
+        "ldo": -4.68,
+        "sko": -5.04,
+        "jp1": -4.5
+      }
+    },
+    {
+      "effective_from": "2025-06-01",
+      "products": {
+        "petrol": 253.63,
+        "hsd": 254.64,
+        "ldo": 151.97,
+        "sko": 165.04,
+        "jp1": 166.56
+      },
+      "change": {
+        "petrol": 1.0,
+        "hsd": 0.0,
+        "ldo": 1.32,
+        "sko": 0.39,
+        "jp1": 1.06
+      }
+    },
+    {
+      "effective_from": "2025-06-16",
+      "products": {
+        "petrol": 258.43,
+        "hsd": 262.59,
+        "ldo": 156.14,
+        "sko": 169.2,
+        "jp1": 167.81
+      },
+      "change": {
+        "petrol": 4.8,
+        "hsd": 7.95,
+        "ldo": 4.17,
+        "sko": 4.16,
+        "jp1": 1.25
+      }
+    },
+    {
+      "effective_from": "2025-07-01",
+      "products": {
+        "petrol": 266.79,
+        "hsd": 272.98,
+        "ldo": 169.61,
+        "sko": 184.43,
+        "jp1": 191.25
+      },
+      "change": {
+        "petrol": 8.36,
+        "hsd": 10.39,
+        "ldo": 13.47,
+        "sko": 15.23,
+        "jp1": 23.44
+      }
+    },
+    {
+      "effective_from": "2025-07-16",
+      "products": {
+        "petrol": 272.15,
+        "hsd": 284.35,
+        "ldo": 167.76,
+        "sko": 181.33,
+        "jp1": 181.52
+      },
+      "change": {
+        "petrol": 5.36,
+        "hsd": 11.37,
+        "ldo": -1.85,
+        "sko": -3.1,
+        "jp1": -9.73
+      }
+    },
+    {
+      "effective_from": "2025-08-01",
+      "products": {
+        "petrol": 264.61,
+        "hsd": 285.83,
+        "ldo": 170.36,
+        "sko": 185.46,
+        "jp1": 183.11
+      },
+      "change": {
+        "petrol": -7.54,
+        "hsd": 1.48,
+        "ldo": 2.6,
+        "sko": 4.13,
+        "jp1": 1.59
+      }
+    },
+    {
+      "effective_from": "2025-08-16",
+      "products": {
+        "petrol": 264.61,
+        "hsd": 272.99,
+        "ldo": 162.16,
+        "sko": 178.27,
+        "jp1": 177.77
+      },
+      "change": {
+        "petrol": 0.0,
+        "hsd": -12.84,
+        "ldo": -8.2,
+        "sko": -7.19,
+        "jp1": -5.34
+      }
+    },
+    {
+      "effective_from": "2025-09-01",
+      "products": {
+        "petrol": 264.61,
+        "hsd": 269.99,
+        "ldo": 159.76,
+        "sko": 176.81,
+        "jp1": 177.37
+      },
+      "change": {
+        "petrol": 0.0,
+        "hsd": -3.0,
+        "ldo": -2.4,
+        "sko": -1.46,
+        "jp1": -0.4
+      }
+    },
+    {
+      "effective_from": "2025-09-16",
+      "products": {
+        "petrol": 264.61,
+        "hsd": 272.77,
+        "ldo": 163.42,
+        "sko": 179.96,
+        "jp1": 179.81
+      },
+      "change": {
+        "petrol": 0.0,
+        "hsd": 2.78,
+        "ldo": 3.66,
+        "sko": 3.15,
+        "jp1": 2.44
+      }
+    },
+    {
+      "effective_from": "2025-10-01",
+      "products": {
+        "petrol": 268.68,
+        "hsd": 276.81,
+        "ldo": 165.5,
+        "sko": 184.97,
+        "jp1": 185.7
+      },
+      "change": {
+        "petrol": 4.07,
+        "hsd": 4.04,
+        "ldo": 2.08,
+        "sko": 5.01,
+        "jp1": 5.89
+      }
+    },
+    {
+      "effective_from": "2025-10-16",
+      "products": {
+        "petrol": 263.02,
+        "hsd": 275.42,
+        "ldo": 162.76,
+        "sko": 181.71,
+        "jp1": 182.38
+      },
+      "change": {
+        "petrol": -5.66,
+        "hsd": -1.39,
+        "ldo": -2.74,
+        "sko": -3.26,
+        "jp1": -3.32
+      }
+    },
+    {
+      "effective_from": "2025-11-01",
+      "products": {
+        "petrol": 265.45,
+        "hsd": 278.44,
+        "ldo": 163.98,
+        "sko": 185.05,
+        "jp1": 185.6
+      },
+      "change": {
+        "petrol": 2.43,
+        "hsd": 3.02,
+        "ldo": 1.22,
+        "sko": 3.34,
+        "jp1": 3.22
+      }
+    },
+    {
+      "effective_from": "2025-11-16",
+      "products": {
+        "petrol": 265.45,
+        "hsd": 284.44,
+        "ldo": 170.8,
+        "sko": 194.34,
+        "jp1": 184.45
+      },
+      "change": {
+        "petrol": 0.0,
+        "hsd": 6.0,
+        "ldo": 6.82,
+        "sko": 9.29,
+        "jp1": -1.15
+      }
+    },
+    {
+      "effective_from": "2025-12-01",
+      "products": {
+        "petrol": 263.45,
+        "hsd": 279.65,
+        "ldo": 163.77,
+        "sko": 192.86,
+        "jp1": 194.72
+      },
+      "change": {
+        "petrol": -2.0,
+        "hsd": -4.79,
+        "ldo": -7.03,
+        "sko": -1.48,
+        "jp1": 10.27
+      }
+    },
+    {
+      "effective_from": "2025-12-16",
+      "products": {
+        "petrol": 263.45,
+        "hsd": 265.65,
+        "ldo": 153.26,
+        "sko": 180.54,
+        "jp1": 189.39
+      },
+      "change": {
+        "petrol": 0.0,
+        "hsd": -14.0,
+        "ldo": -10.51,
+        "sko": -12.32,
+        "jp1": -5.33
+      }
+    },
+    {
+      "effective_from": "2026-01-01",
+      "products": {
+        "petrol": 253.17,
+        "hsd": 257.08,
+        "ldo": 153.26,
+        "sko": 180.54,
+        "jp1": 189.39
+      },
+      "change": {
+        "petrol": -10.28,
+        "hsd": -8.57,
+        "ldo": 0.0,
+        "sko": 0.0,
+        "jp1": 0.0
+      }
+    },
+    {
+      "effective_from": "2026-01-16",
+      "products": {
+        "petrol": 253.17,
+        "hsd": 257.08,
+        "ldo": 146.18,
+        "sko": 170.88,
+        "jp1": 171.9
+      },
+      "change": {
+        "petrol": 0.0,
+        "hsd": 0.0,
+        "ldo": -7.08,
+        "sko": -9.66,
+        "jp1": -17.49
+      }
+    },
+    {
+      "effective_from": "2026-02-01",
+      "products": {
+        "petrol": 253.17,
+        "hsd": 268.38,
+        "ldo": 154.41,
+        "sko": 175.8,
+        "jp1": 190.33
+      },
+      "change": {
+        "petrol": 0.0,
+        "hsd": 11.3,
+        "ldo": 8.23,
+        "sko": 4.92,
+        "jp1": 18.43
+      }
+    },
+    {
+      "effective_from": "2026-02-16",
+      "products": {
+        "petrol": 258.17,
+        "hsd": 275.7,
+        "ldo": 161.72,
+        "sko": 180.53,
+        "jp1": 182.7
+      },
+      "change": {
+        "petrol": 5.0,
+        "hsd": 7.32,
+        "ldo": 7.31,
+        "sko": 4.73,
+        "jp1": -7.63
+      }
+    },
+    {
+      "effective_from": "2026-03-01",
+      "products": {
+        "petrol": 266.17,
+        "hsd": 280.86,
+        "ldo": 167.19,
+        "sko": 188.73,
+        "jp1": 188.93
+      },
+      "change": {
+        "petrol": 8.0,
+        "hsd": 5.16,
+        "ldo": 5.47,
+        "sko": 8.2,
+        "jp1": 6.23
+      }
+    },
+    {
+      "effective_from": "2026-03-07",
+      "products": {
+        "petrol": 321.17,
+        "hsd": 335.86,
+        "ldo": 235.01,
+        "sko": 318.81,
+        "jp1": 342.37
+      },
+      "change": {
+        "petrol": 55.0,
+        "hsd": 55.0,
+        "ldo": 67.82,
+        "sko": 130.08,
+        "jp1": 153.44
+      }
+    },
+    {
+      "effective_from": "2026-03-14",
+      "products": {
+        "petrol": 321.17,
+        "hsd": 335.86,
+        "ldo": 302.52,
+        "sko": 358.01,
+        "jp1": 388.01
+      },
+      "change": {
+        "petrol": 0.0,
+        "hsd": 0.0,
+        "ldo": 67.51,
+        "sko": 39.2,
+        "jp1": 45.64
+      }
+    },
+    {
+      "effective_from": "2026-03-21",
+      "products": {
+        "petrol": 321.17,
+        "hsd": 335.86,
+        "ldo": 343.59,
+        "sko": 428.74,
+        "jp1": 471.47
+      },
+      "change": {
+        "petrol": 0.0,
+        "hsd": 0.0,
+        "ldo": 41.07,
+        "sko": 70.73,
+        "jp1": 83.46
+      }
+    },
+    {
+      "effective_from": "2026-03-28",
+      "products": {
+        "petrol": 321.17,
+        "hsd": 335.86,
+        "ldo": 365.62,
+        "sko": 433.4,
+        "jp1": 476.97
+      },
+      "change": {
+        "petrol": 0.0,
+        "hsd": 0.0,
+        "ldo": 22.03,
+        "sko": 4.66,
+        "jp1": 5.5
+      }
+    },
+    {
+      "effective_from": "2026-04-03",
+      "products": {
+        "petrol": 458.41,
+        "hsd": 520.35,
+        "ldo": 395.03,
+        "sko": 467.48,
+        "jp1": 517.17
+      },
+      "change": {
+        "petrol": 137.24,
+        "hsd": 184.49,
+        "ldo": 29.41,
+        "sko": 34.08,
+        "jp1": 40.2
+      }
+    },
+    {
+      "effective_from": "2026-04-04",
+      "products": {
+        "petrol": 378.41,
+        "hsd": 520.35,
+        "ldo": 395.03,
+        "sko": 467.48,
+        "jp1": 517.17
+      },
+      "change": {
+        "petrol": -80.0,
+        "hsd": 0.0,
+        "ldo": 0.0,
+        "sko": 0.0,
+        "jp1": 0.0
+      }
+    },
+    {
+      "effective_from": "2026-04-11",
+      "products": {
+        "petrol": 366.58,
+        "hsd": 385.54,
+        "ldo": 369.72,
+        "sko": 450.15,
+        "jp1": 494.69
+      },
+      "change": {
+        "petrol": -11.83,
+        "hsd": -134.81,
+        "ldo": -25.31,
+        "sko": -17.33,
+        "jp1": -22.48
+      }
+    },
+    {
+      "effective_from": "2026-04-18",
+      "products": {
+        "petrol": 366.58,
+        "hsd": 353.42,
+        "ldo": 299.32,
+        "sko": 428.81,
+        "jp1": 471.01
+      },
+      "change": {
+        "petrol": 0.0,
+        "hsd": -32.12,
+        "ldo": -70.4,
+        "sko": -21.34,
+        "jp1": -23.68
+      }
+    },
+    {
+      "effective_from": "2026-04-25",
+      "products": {
+        "petrol": 393.35,
+        "hsd": 380.19,
+        "ldo": 270.51,
+        "sko": 365.21,
+        "jp1": 396.31
+      },
+      "change": {
+        "petrol": 26.77,
+        "hsd": 26.77,
+        "ldo": -28.81,
+        "sko": -63.6,
+        "jp1": -74.7
+      }
+    },
+    {
+      "effective_from": "2026-05-01",
+      "products": {
+        "petrol": 399.86,
+        "hsd": 399.58,
+        "ldo": 287.54,
+        "sko": 360.76,
+        "jp1": 388.55
+      },
+      "change": {
+        "petrol": 6.51,
+        "hsd": 19.39,
+        "ldo": 17.03,
+        "sko": -4.45,
+        "jp1": -7.76
+      }
+    },
+    {
+      "effective_from": "2026-05-09",
+      "products": {
+        "petrol": 414.78,
+        "hsd": 414.58,
+        "ldo": 265.84,
+        "sko": 318.96,
+        "jp1": 441.66
+      },
+      "change": {
+        "petrol": 14.92,
+        "hsd": 15.0,
+        "ldo": -21.7,
+        "sko": -41.8,
+        "jp1": 53.11
+      }
+    },
+    {
+      "effective_from": "2026-05-16",
+      "products": {
+        "petrol": 409.78,
+        "hsd": 409.58,
+        "ldo": 273.92,
+        "sko": 311.73,
+        "jp1": 330.22
+      },
+      "change": {
+        "petrol": -5.0,
+        "hsd": -5.0,
+        "ldo": 8.08,
+        "sko": -7.23,
+        "jp1": -111.44
+      }
+    },
+    {
+      "effective_from": "2026-05-23",
+      "products": {
+        "petrol": 403.78,
+        "hsd": 402.78,
+        "ldo": 275.54,
+        "sko": 313.44,
+        "jp1": 332.32
+      },
+      "change": {
+        "petrol": -6.0,
+        "hsd": -6.8,
+        "ldo": 1.62,
+        "sko": 1.71,
+        "jp1": 2.1
+      }
+    },
+    {
+      "effective_from": "2026-05-30",
+      "products": {
+        "petrol": 381.78,
+        "hsd": 380.78,
+        "ldo": 244.93,
+        "sko": 272.0,
+        "jp1": 283.52
+      },
+      "change": {
+        "petrol": -22.0,
+        "hsd": -22.0,
+        "ldo": -30.61,
+        "sko": -41.44,
+        "jp1": -48.8
+      }
+    },
+    {
+      "effective_from": "2026-06-06",
+      "products": {
+        "petrol": 377.78,
+        "hsd": 380.78,
+        "ldo": 249.6,
+        "sko": 280.7,
+        "jp1": 283.52
+      },
+      "change": {
+        "petrol": -4.0,
+        "hsd": 0.0,
+        "ldo": 4.67,
+        "sko": 8.7,
+        "jp1": 0.0
+      }
+    },
+    {
+      "effective_from": "2026-06-13",
+      "products": {
+        "petrol": 373.78,
+        "hsd": 378.78,
+        "ldo": 244.75,
+        "sko": 282.19,
+        "jp1": 295.84
+      },
+      "change": {
+        "petrol": -4.0,
+        "hsd": -2.0,
+        "ldo": -4.85,
+        "sko": 1.49,
+        "jp1": 12.32
+      }
+    },
+    {
+      "effective_from": "2026-06-20",
+      "products": {
+        "petrol": 299.5,
+        "hsd": 311.47,
+        "ldo": 199.98,
+        "sko": 233.9,
+        "jp1": 238.87
+      },
+      "change": {
+        "petrol": -74.28,
+        "hsd": -67.31,
+        "ldo": -44.77,
+        "sko": -48.29,
+        "jp1": -56.97
+      }
+    },
+    {
+      "effective_from": "2026-06-27",
+      "products": {
+        "petrol": 299.5,
+        "hsd": 311.47,
+        "ldo": 192.43,
+        "sko": 227.05,
+        "jp1": 231.72
+      },
+      "change": {
+        "petrol": 0.0,
+        "hsd": 0.0,
+        "ldo": -7.55,
+        "sko": -6.85,
+        "jp1": -7.15
+      }
+    },
+    {
+      "effective_from": "2026-07-04",
+      "products": {
+        "petrol": 297.53,
+        "hsd": 309.5,
+        "ldo": 195.48,
+        "sko": 231.14,
+        "jp1": 237.97
+      },
+      "change": {
+        "petrol": -1.97,
+        "hsd": -1.97,
+        "ldo": 3.05,
+        "sko": 4.09,
+        "jp1": 6.25
+      }
+    },
+    {
+      "effective_from": "2026-07-11",
+      "products": {
+        "petrol": 310.71,
+        "hsd": 323.3,
+        "ldo": 205.22,
+        "sko": 242.33,
+        "jp1": 251.2
+      },
+      "change": {
+        "petrol": 13.18,
+        "hsd": 13.8,
+        "ldo": 9.74,
+        "sko": 11.19,
+        "jp1": 13.23
+      }
+    }
+  ]
+}
