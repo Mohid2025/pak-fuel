@@ -1,0 +1,143 @@
+:root {
+  --paper: #ECEAE2;
+  --card: #F6F4EE;
+  --border: #DCD8CC;
+  --ink: #191917;
+  --muted: #6B6A63;
+  --pump-bg: #14181C;
+  --pump-line: #262D33;
+  --amber: #F4A62A;
+  --amber-dim: #8A6A2E;
+  --up: #C4453B;
+  --down: #2E7D53;
+  --petrol: #1B2A2E;
+  --diesel: #C8791E;
+  --kerosene: #8A3A2E;
+  --ldo: #5B6B70;
+  --jp1: #6A5A8A;
+  --font-display: 'Space Grotesk', system-ui, sans-serif;
+  --font-mono: 'IBM Plex Mono', ui-monospace, monospace;
+}
+
+* { box-sizing: border-box; margin: 0; padding: 0; }
+
+body {
+  font-family: var(--font-display);
+  background: var(--paper);
+  color: var(--ink);
+  -webkit-font-smoothing: antialiased;
+  line-height: 1.4;
+}
+
+.wrap { max-width: 960px; margin: 0 auto; padding: clamp(1.25rem, 4vw, 3rem); }
+
+.eyebrow {
+  font-family: var(--font-mono);
+  font-size: 0.72rem;
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+  color: var(--muted);
+}
+
+/* ---- hero pump panel ---- */
+.pump {
+  background: var(--pump-bg);
+  border-radius: 14px;
+  padding: clamp(1.5rem, 5vw, 2.75rem);
+  margin-top: 1rem;
+  position: relative;
+  overflow: hidden;
+}
+.pump::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: radial-gradient(120% 80% at 20% 0%, rgba(244,166,42,0.10), transparent 60%);
+  pointer-events: none;
+}
+.pump__label {
+  font-family: var(--font-mono);
+  font-size: 0.78rem;
+  letter-spacing: 0.16em;
+  text-transform: uppercase;
+  color: var(--amber-dim);
+}
+.pump__price {
+  font-family: var(--font-mono);
+  font-weight: 600;
+  font-variant-numeric: tabular-nums;
+  font-size: clamp(3.25rem, 12vw, 6rem);
+  line-height: 1;
+  color: var(--amber);
+  letter-spacing: 0.02em;
+  text-shadow: 0 0 24px rgba(244,166,42,0.25);
+  margin: 0.5rem 0;
+}
+.pump__price small { font-size: 0.32em; color: var(--amber-dim); font-weight: 500; }
+.pump__delta {
+  font-family: var(--font-mono);
+  font-size: 0.95rem;
+  font-variant-numeric: tabular-nums;
+}
+.pump__delta.up { color: var(--up); }
+.pump__delta.down { color: var(--down); }
+.pump__meta {
+  margin-top: 1.25rem;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1.5rem;
+  border-top: 1px solid var(--pump-line);
+  padding-top: 1rem;
+}
+.pump__stat { font-family: var(--font-mono); font-variant-numeric: tabular-nums; }
+.pump__stat span { display: block; font-size: 0.68rem; letter-spacing: 0.1em; text-transform: uppercase; color: var(--amber-dim); }
+.pump__stat b { font-weight: 500; color: #D8D4CA; font-size: 1.05rem; }
+.pump__foot { margin-top: 1rem; font-family: var(--font-mono); font-size: 0.72rem; color: #55606A; }
+
+/* ---- controls ---- */
+.controls { display: flex; flex-wrap: wrap; gap: 1.5rem; justify-content: space-between; margin: 2.25rem 0 1rem; }
+.group { display: flex; flex-direction: column; gap: 0.5rem; }
+.group__label { font-family: var(--font-mono); font-size: 0.68rem; letter-spacing: 0.12em; text-transform: uppercase; color: var(--muted); }
+.chips { display: flex; flex-wrap: wrap; gap: 0.4rem; }
+.chip {
+  font-family: var(--font-mono);
+  font-size: 0.8rem;
+  padding: 0.35rem 0.7rem;
+  border: 1px solid var(--border);
+  background: var(--card);
+  color: var(--muted);
+  border-radius: 999px;
+  cursor: pointer;
+  transition: all 0.12s ease;
+}
+.chip:hover { border-color: var(--ink); color: var(--ink); }
+.chip[aria-pressed="true"] { background: var(--ink); color: var(--paper); border-color: var(--ink); }
+.chip__dot { display: inline-block; width: 8px; height: 8px; border-radius: 999px; margin-right: 0.4rem; vertical-align: middle; }
+
+/* ---- chart card ---- */
+.chart {
+  background: var(--card);
+  border: 1px solid var(--border);
+  border-radius: 14px;
+  padding: 1.25rem 0.75rem 0.5rem;
+}
+.tip {
+  background: var(--pump-bg);
+  border-radius: 8px;
+  padding: 0.6rem 0.75rem;
+  font-family: var(--font-mono);
+  font-size: 0.78rem;
+}
+.tip__date { color: var(--amber); margin-bottom: 0.3rem; }
+.tip__row { color: #D8D4CA; font-variant-numeric: tabular-nums; display: flex; justify-content: space-between; gap: 1.25rem; }
+
+.foot { margin-top: 2rem; font-family: var(--font-mono); font-size: 0.74rem; color: var(--muted); line-height: 1.7; }
+.foot a { color: var(--ink); }
+
+.state { font-family: var(--font-mono); color: var(--muted); padding: 4rem 0; text-align: center; }
+
+*:focus-visible { outline: 2px solid var(--amber); outline-offset: 2px; }
+
+@media (prefers-reduced-motion: reduce) {
+  * { animation: none !important; transition: none !important; }
+}
