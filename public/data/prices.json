@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-07-22T04:54:44.476504+00:00",
+  "updated_at": "2026-07-22T17:04:56.421229+00:00",
   "source": "Pakistan State Oil (psopk.com) -- notified POL prices",
   "note": "Prices exclude freight from shipping point to retail outlet; pump price may differ slightly by location.",
-  "revision_count": 380,
+  "revision_count": 381,
   "revisions": [
     {
       "effective_from": "2006-01-01",
@@ -6034,6 +6034,23 @@
         "ldo": 25.45,
         "sko": 34.33,
         "jp1": 40.35
+      }
+    },
+    {
+      "effective_from": "2026-07-22",
+      "products": {
+        "petrol": 320.73,
+        "hsd": 367.21,
+        "ldo": 240.4,
+        "sko": 289.37,
+        "jp1": 291.55
+      },
+      "change": {
+        "petrol": 4.58,
+        "hsd": 12.86,
+        "ldo": 9.73,
+        "sko": 12.71,
+        "jp1": 0.0
       }
     }
   ]
